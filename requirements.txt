@@ -1,0 +1,94 @@
+# Core Dependencies
+streamlit>=1.28.0
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+
+# YouTube and Video Processing
+youtube-transcript-api>=0.6.0
+pytube>=15.0.0
+
+# Data Processing and Analysis
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Export and Document Generation
+reportlab>=4.0.0
+python-docx>=0.8.11
+fpdf2>=2.7.0
+
+# HTTP Requests and URL Processing
+requests>=2.31.0
+urllib3>=2.0.0
+
+# JSON and Data Serialization
+jsonschema>=4.17.0
+
+# Date and Time Processing
+python-dateutil>=2.8.0
+
+# Text Processing and NLP
+nltk>=3.8.0
+textblob>=0.17.0
+langdetect>=1.0.9
+
+# File and Path Handling
+pathlib2>=2.3.7; python_version<"3.4"
+
+# Logging and Monitoring
+loguru>=0.7.0
+
+# Configuration Management
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Security and Validation
+validators>=0.20.0
+bleach>=6.0.0
+
+# Database (Optional - for advanced session management)
+sqlalchemy>=2.0.0
+
+# Caching (Optional)
+diskcache>=5.6.0
+
+# Image Processing (Optional - for thumbnail handling)
+Pillow>=10.0.0
+
+# Async Support (Optional)
+aiohttp>=3.8.0
+asyncio
+
+# Development Dependencies (Optional)
+# pytest>=7.0.0
+# pytest-asyncio>=0.21.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.0.0
+
+# Additional Optional Dependencies
+# For advanced text analysis
+# spacy>=3.6.0
+# transformers>=4.30.0
+
+# For better PDF generation
+# weasyprint>=59.0
+
+# For advanced charts and visualizations
+# plotly>=5.15.0
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+
+# For API functionality (if enabled)
+# fastapi>=0.100.0
+# uvicorn>=0.22.0
+
+# For advanced session management
+# redis>=4.6.0
+
+# OS-specific dependencies
+# For Windows
+# pywin32>=306; sys_platform=="win32"
+
+# For enhanced security
+# cryptography>=41.0.0
+# bcrypt>=4.0.0
