@@ -258,7 +258,7 @@ streamlit run app.py
 
 #### **Option 1: Standard Installation**
 
-<details>
+
 <summary><b>🐍 Python Environment Setup</b></summary>
 
 ```bash
@@ -278,9 +278,7 @@ source youtube_analyzer_env/bin/activate
 python -m pip install --upgrade pip
 ```
 
-</details>
 
-<details>
 <summary><b>📦 Repository Setup</b></summary>
 
 ```bash
@@ -295,9 +293,7 @@ pip install -r requirements.txt
 python -c "import streamlit; import google.generativeai; print('Installation successful!')"
 ```
 
-</details>
 
-<details>
 <summary><b>🔑 API Configuration</b></summary>
 
 **Get Google Gemini API Key:**
@@ -342,11 +338,9 @@ ENABLE_ANALYTICS=true
 ENABLE_EXPORT=true
 ```
 
-</details>
 
 #### **Option 2: Docker Installation**
 
-<details>
 <summary><b>🐳 Docker Setup</b></summary>
 
 **Prerequisites:**
@@ -400,11 +394,11 @@ docker-compose logs -f
 docker-compose down
 ```
 
-</details>
+
 
 #### **Option 3: Cloud Deployment**
 
-<details>
+
 <summary><b>☁️ Streamlit Cloud</b></summary>
 
 **Prerequisites:**
@@ -427,11 +421,11 @@ docker-compose down
    ```
 4. **Deploy**: App automatically deploys from main branch
 
-</details>
+
 
 ### 🔍 **Installation Verification**
 
-<details>
+
 <summary><b>✅ Testing Your Setup</b></summary>
 
 **Basic Functionality Test:**
@@ -469,11 +463,11 @@ except:
 "
 ```
 
-</details>
+
 
 ### 🚨 **Troubleshooting Installation**
 
-<details>
+
 <summary><b>🔧 Common Issues</b></summary>
 
 **Issue: Python version too old**
@@ -514,7 +508,7 @@ pip install streamlit>=1.28.0
 streamlit hello  # Test installation
 ```
 
-</details>
+
 
 ---
 
@@ -536,7 +530,7 @@ streamlit hello  # Test installation
 
 #### **Core Components**
 
-<details>
+
 <summary><b>🧩 Module Breakdown</b></summary>
 
 **Frontend Layer (`app.py`)**
@@ -567,7 +561,7 @@ streamlit hello  # Test installation
 - `validators.py`: Input validation and security
 - Helper functions and utilities
 
-</details>
+
 
 #### **Data Flow**
 
@@ -581,7 +575,7 @@ User Input (URL) → Validation → Transcript Extraction → AI Analysis → Re
 
 ### 🔄 **Processing Pipeline**
 
-<details>
+
 <summary><b>📊 Analysis Workflow</b></summary>
 
 **Phase 1: Input Processing (5-10 seconds)**
@@ -618,11 +612,11 @@ User Input (URL) → Validation → Transcript Extraction → AI Analysis → Re
 3. Export options preparation
 4. Session storage completion
 
-</details>
+
 
 ### 🎛️ **Configuration Management**
 
-<details>
+
 <summary><b>⚙️ Settings Categories</b></summary>
 
 **API Configuration**
@@ -669,7 +663,7 @@ SECURITY_CONFIG = {
 }
 ```
 
-</details>
+
 
 ---
 
@@ -677,7 +671,7 @@ SECURITY_CONFIG = {
 
 ### 📚 **Educational Content Analysis**
 
-<details>
+
 <summary><b>🎓 Academic Lecture Analysis</b></summary>
 
 **Input Video**: "Introduction to Machine Learning" (45-minute lecture)
@@ -760,11 +754,11 @@ The professor suggests three solutions:
 3. Use cross-validation techniques (41:45)"
 ```
 
-</details>
+
 
 ### 💼 **Business Content Analysis**
 
-<details>
+
 <summary><b>📈 Marketing Strategy Video</b></summary>
 
 **Input Video**: "Digital Marketing Trends 2024" (25-minute presentation)
@@ -866,11 +860,11 @@ then scale based on performance metrics. Companies that started with this
 approach saw 3x better ROI than those who jumped in with large budgets.'"
 ```
 
-</details>
+
 
 ### 🎨 **Creative Content Analysis**
 
-<details>
+
 <summary><b>🎬 Film Analysis Example</b></summary>
 
 **Input Video**: "Cinematography Techniques in Modern Films" (35-minute video essay)
@@ -933,11 +927,11 @@ precision harmonizes with creative vision to birth cinematic magic.
     technical complexity, but emotional clarity."
 ```
 
-</details>
+
 
 ### 🔬 **Technical Content Analysis**
 
-<details>
+
 <summary><b>⚙️ Programming Tutorial Analysis</b></summary>
 
 **Input Video**: "Building REST APIs with Python Flask" (40-minute tutorial)
@@ -1112,7 +1106,7 @@ complexity in token management is worth the architectural benefits.'
 - Token blacklisting for logout functionality"
 ```
 
-</details>
+
 
 ---
 
@@ -1120,7 +1114,7 @@ complexity in token management is worth the architectural benefits.'
 
 ### 🎛️ **Environment Variables Reference**
 
-<details>
+
 <summary><b>📝 Complete .env Configuration</b></summary>
 
 ```bash
@@ -1403,11 +1397,11 @@ CONFIG_FILE=./config/app.yaml     # Additional config file
 SECRETS_FILE=./config/secrets.json # Secrets file
 ```
 
-</details>
+
 
 ### 🔧 **Advanced Customization**
 
-<details>
+
 <summary><b>🎨 UI Theming and Branding</b></summary>
 
 **Custom CSS Configuration:**
@@ -1581,9 +1575,9 @@ def apply_custom_branding():
     """, unsafe_allow_html=True)
 ```
 
-</details>
 
-<details>
+
+
 <summary><b>🤖 Custom AI Prompts</b></summary>
 
 **Creating Industry-Specific Prompts:**
@@ -1729,9 +1723,9 @@ class IndustryPrompts:
         return self.get_default_prompt(video_info)
 ```
 
-</details>
 
-<details>
+
+
 <summary><b>🔌 API Integration Examples</b></summary>
 
 **External Service Integration:**
@@ -1984,7 +1978,7 @@ def notify_analysis_complete(integrations, video_info, analysis_results):
         )
 ```
 
-</details>
+
 
 ---
 
@@ -2049,7 +2043,7 @@ Input URL → Validation → Video Info → Transcript → AI Analysis → Resul
 
 ### 🧩 **Component Details**
 
-<details>
+
 <summary><b>🎯 Core Components Breakdown</b></summary>
 
 **Frontend Layer Components:**
@@ -2118,9 +2112,9 @@ Input URL → Validation → Video Info → Transcript → AI Analysis → Resul
    - Video statistics
    - Thumbnail URLs
 
-</details>
 
-<details>
+
+
 <summary><b>📊 Data Flow Architecture</b></summary>
 
 **Request Processing Flow:**
@@ -2238,9 +2232,9 @@ Error Occurs
 └─────────────┘
 ```
 
-</details>
 
-<details>
+
+
 <summary><b>🔧 Technology Stack Details</b></summary>
 
 **Frontend Technologies:**
@@ -2271,11 +2265,11 @@ Error Occurs
 - **Docker**: Containerization
 - **GitHub Actions**: CI/CD (optional)
 
-</details>
+
 
 ### 🔒 **Security Architecture**
 
-<details>
+
 <summary><b>🛡️ Security Layers</b></summary>
 
 **Input Validation Layer:**
@@ -2335,7 +2329,7 @@ def enforce_https():
     pass
 ```
 
-</details>
+
 
 ---
 
@@ -2343,7 +2337,7 @@ def enforce_https():
 
 ### 📄 **Export Format Specifications**
 
-<details>
+
 <summary><b>📑 PDF Export Features</b></summary>
 
 **Professional PDF Reports Include:**
@@ -2409,9 +2403,9 @@ PAGE 5+: Detailed Sections
 └── References
 ```
 
-</details>
 
-<details>
+
+
 <summary><b>📝 Word Document Export</b></summary>
 
 **Microsoft Word Features:**
@@ -2462,9 +2456,9 @@ def create_word_template():
 - Custom sections selection
 - Template-based formatting
 
-</details>
 
-<details>
+
+
 <summary><b>📊 JSON Export Structure</b></summary>
 
 **Complete JSON Schema:**
@@ -2590,11 +2584,11 @@ def create_word_template():
 - Custom processing pipelines
 - Machine learning datasets
 
-</details>
+
 
 ### 🔌 **Integration APIs**
 
-<details>
+
 <summary><b>🚀 REST API Endpoints</b></summary>
 
 **API Base URL:** `https://your-app.com/api/v1`
@@ -2705,9 +2699,9 @@ GET /api/v1/analyses?limit=10&offset=0
 }
 ```
 
-</details>
 
-<details>
+
+
 <summary><b>🔗 Webhook Integration</b></summary>
 
 **Webhook Configuration:**
@@ -2775,9 +2769,9 @@ def verify_webhook(payload, signature, secret):
     return hmac.compare_digest(f"sha256={expected_signature}", signature)
 ```
 
-</details>
 
-<details>
+
+
 <summary><b>📱 Third-Party Integrations</b></summary>
 
 **Zapier Integration:**
@@ -2884,7 +2878,7 @@ def update_google_sheet(analysis_data):
 }
 ```
 
-</details>
+
 
 ---
 
@@ -2892,7 +2886,7 @@ def update_google_sheet(analysis_data):
 
 ### 🛡️ **Security Measures**
 
-<details>
+
 <summary><b>🔐 Data Protection</b></summary>
 
 **Data Processing Security:**
@@ -2972,7 +2966,7 @@ class RateLimiter:
         pass
 ```
 
-</details>
+
 
 ### 🔒 **Privacy Policy**
 
