@@ -2,6 +2,7 @@
 import google.generativeai as genai
 import json
 import re
+import time
 from datetime import datetime
 from typing import Dict, List, Any
 import streamlit as st
@@ -18,6 +19,72 @@ class AIProcessor:
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel("gemini-2.0-flash-exp")
         self.prompt_templates = PromptTemplates()
+        self.max_retries = 3
+        self.base_delay = 1
+    
+    def _make_api_call_with_retry(self, prompt: str, context: str = "") -> str:
+        """Make API call with retry logic and rate limiting handling"""
+        full_prompt = prompt + context
+        
+        for attempt in range(self.max_retries):
+            try:
+                response = self.model.generate_content(full_prompt)
+                return response.text
+                
+            except Exception as e:
+                error_msg = str(e)
+                
+                # Handle rate limiting (429 errors)
+                if "429" in error_msg or "quota" in error_msg.lower() or "rate limit" in error_msg.lower():
+                    if "retry_delay" in error_msg:
+                        # Extract retry delay from error message
+                        import re
+                        delay_match = re.search(r'seconds: (\d+)', error_msg)
+                        if delay_match:
+                            delay = int(delay_match.group(1))
+                        else:
+                            delay = 60  # Default delay
+                    else:
+                        delay = (2 ** attempt) * self.base_delay  # Exponential backoff
+                    
+                    if attempt < self.max_retries - 1:
+                        st.warning(f"⏳ Rate limit reached. Waiting {delay} seconds before retry... (Attempt {attempt + 1}/{self.max_retries})")
+                        
+                        # Show countdown
+                        countdown_placeholder = st.empty()
+                        for i in range(delay, 0, -1):
+                            countdown_placeholder.info(f"⏱️ Retrying in {i} seconds...")
+                            time.sleep(1)
+                        countdown_placeholder.empty()
+                        
+                        continue
+                    else:
+                        st.error(f"❌ API rate limit exceeded. Please try again in a few minutes.")
+                        return f"Error: Rate limit exceeded. Please wait and try again."
+                
+                # Handle other API errors
+                elif "503" in error_msg or "500" in error_msg:
+                    if attempt < self.max_retries - 1:
+                        delay = (2 ** attempt) * self.base_delay
+                        st.warning(f"🔄 API temporarily unavailable. Retrying in {delay} seconds... (Attempt {attempt + 1}/{self.max_retries})")
+                        time.sleep(delay)
+                        continue
+                    else:
+                        st.error(f"❌ API service unavailable. Please try again later.")
+                        return f"Error: API service unavailable."
+                
+                # Handle other errors
+                else:
+                    if attempt < self.max_retries - 1:
+                        delay = (2 ** attempt) * self.base_delay
+                        st.warning(f"⚠️ API error occurred. Retrying in {delay} seconds... (Attempt {attempt + 1}/{self.max_retries})")
+                        time.sleep(delay)
+                        continue
+                    else:
+                        st.error(f"❌ API error: {error_msg}")
+                        return f"Error: {error_msg}"
+        
+        return "Error: Failed to generate content after multiple attempts."
     
     def comprehensive_analysis(self, transcript_text: str, **kwargs) -> Dict[str, Any]:
         """Perform comprehensive analysis of the video transcript"""
@@ -89,11 +156,11 @@ class AIProcessor:
                 summary_type, language, video_info
             )
             
-            response = self.model.generate_content(
-                prompt + "\n\nTranscript:\n" + transcript_text
+            response = self._make_api_call_with_retry(
+                prompt, "\n\nTranscript:\n" + transcript_text
             )
             
-            return response.text
+            return response
             
         except Exception as e:
             st.error(f"Error generating summary: {e}")
@@ -104,13 +171,13 @@ class AIProcessor:
         try:
             prompt = self.prompt_templates.get_takeaways_prompt(summary_type)
             
-            response = self.model.generate_content(
-                prompt + "\n\nTranscript:\n" + transcript_text
+            response = self._make_api_call_with_retry(
+                prompt, "\n\nTranscript:\n" + transcript_text
             )
             
             # Parse the response into a list
             takeaways = []
-            for line in response.text.split('\n'):
+            for line in response.split('\n'):
                 line = line.strip()
                 if line and (line.startswith('•') or line.startswith('-') or line.startswith('*')):
                     takeaways.append(line[1:].strip())
@@ -413,8 +480,8 @@ class AIProcessor:
             Please provide a comprehensive answer based on the transcript content:
             """
             
-            response = self.model.generate_content(prompt)
-            return response.text
+            response = self._make_api_call_with_retry(prompt)
+            return response
             
         except Exception as e:
             st.error(f"Error in chat: {e}")

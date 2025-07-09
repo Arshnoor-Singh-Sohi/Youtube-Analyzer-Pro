@@ -1,0 +1,2117 @@
+{
+  "url": "https://youtu.be/5YzUDP3JQ9A?si=3_5YGuRrYmNVJpCt",
+  "video_info": {
+    "video_id": "5YzUDP3JQ9A",
+    "url": "https://youtu.be/5YzUDP3JQ9A?si=3_5YGuRrYmNVJpCt",
+    "thumbnail": "https://img.youtube.com/vi/5YzUDP3JQ9A/maxresdefault.jpg",
+    "title": "Video 5YzUDP3JQ9A",
+    "duration": "Unknown",
+    "channel": "Unknown Channel",
+    "views": 0,
+    "description": "Description not available",
+    "published_date": null
+  },
+  "transcript": {
+    "text": "There's something that's been bothering me. It started with a very simple observation. Anytime a new tech event or a hype cycle happens, right? It has the same energy. Honestly, I was getting tired of it. We've heard this story. VR was going to change everything. Crypto was going to replace money. We still have money. You and I were going to meet in the metaverse. Hasn't happened. Nothing has happened. It's all a hype. But then I read this report primarily because it was Mary Miker, queen of the internet, former Wall Street analyst forecasted the rise of companies like Google, Amazon, and Spotify. Mary Mer has always been right about anything that she's predicted. And so if she launched a report, I had to read. And after reading all 336 pages, which took 2 weeks by the way, I realized something that honestly kept me up at night. This AI phenomenon does not feel like VR or crypto or the metaverse. This is different. This is happening faster, spreading wider and reshaping the entire world as we know it. I have also been missing the scale at which AI is growing. This video is our attempt to show you what we've discovered after reading the report. Because if Mary Maker is right, and she usually is, we're not just watching another tech trend. We're watching the fastest transformation of the human civilization and it's happening right now. We are now glad to be a part of the 01 media network by Zerodha. Let's get back into the episode. How long do you think it takes for a new technology to reach 100 million users? The telephone took 50 years to reach 50% of American households. Television took 30 years. Netflix took 10 years to reach 100 million users. Facebook did that in just 4 years. Instagram did that in just 2 years. Did you notice something? Every time a new technology is coming, it's growing at two times the speed of the previous one. So, Chad GPT should have taken 1 year to reach the same number. But that's where AI is changing the rules completely. Chad GPT did 100 million users in just 60 days. And I got thinking, why is it growing so fast? Here's what we think is happening. If you want customers to come and use your product, you typically need a bunch of things to make that happen. If you sold cars, you need good roads. You need access to pedal bombs. And you need a distributor who will help you sell the product. Even Instagram or YouTube, you need cheap data to consume content. Thanks to Jio, the adoption of these tools have exploded. But with chat GPT, everything what it needs is already there. The timing couldn't have been more perfect. AI needed three things in abundance. Data, compute, and easy access to users. AI got all the data from internet. 30 years of people like you and I sharing knowledge online was fed into it, which is why it became so useful. Second was compute. AI needed a lot of powerful GPUs and hardware to be trained on. hardware has gotten so powerful that even the smartphone that you use is 10,000 times more powerful than the computer that was used by the astronauts that landed on the moon. And finally, easy access to users. Almost every single person has a smartphone with data access. This means that chat GPT was available to everyone instantly all at once. Did you know that 63% of developers are building with AI? That means the market is going to explode with AI first products that are going to disrupt every single industry. Yes, every single one. No one is prepared for the kind of disruption that is about to hit the market. Before we go ahead, I need a minute of yours. I'm sure if you've watched our videos before, you've heard us talk about the Kodas community. We are a community of 4,000 plus leaders and operators from Apple, Tik Tok, Slack, Zoom, Spotify, Canva, Lemon Labs, Nike, and more. What do they get? They get three unfair advantages. First, access to in-person meetups hosted every single week across 11 Indian cities, plus an online community where the world's top operators are just one message away. Second, they get to learn from the world's best folks across every single topic you can think of. AI, strategy, product growth, brand, you name it. And last, but definitely not the least, they get access to a $100,000 worth of exclusive perks from the top brands in the world like Wework, Notion, Mochabara, Lens Card, and a lot more. You can explore about Rubex in the link in the description. Here's a question that will connect everything we just spoke about. What happens when millions of people who use chatg, the millions of developers that are using it, plus thousands of companies all want to use AI at the same time? You get the largest infrastructure building plan in human history. Last year, the biggest tech companies spent $212 billion on infrastructure. That's not revenue. That's not market cap. That's actual money spent on servers, data centers, and chips. That's more than the GDP of most countries. Let me show you what 212 billion actually looks like. This is XAI's colossal facility in Memphis, Tennessee. 7 lakh 50,000 square ft having 2 lakh high-end GPUs built in just 3 months. Even a residential house takes 6 to 12 months to be built. And that's not it. Donald Trump has announced projects target to build AI infrastructure in the US. This project alone costs more than $500 billion. That's a lot of data centers and data centers need electricity. These facilities use enormous amount of electricities. Data centers already consume 1.5% of all global electricity and demand is growing exponentially. Even though our chips are getting 1 lakh times, yes one lakh times more efficient, total energy consumption is still rising because demand is growing much much faster than efficiency. I think we are going to see electricity coming from nuclear power becoming the norm. Now if any country wants to win the AI war, it's going to come down to infrastructure. There are two kinds of AI systems right now, open and closed. A closed system is like let's say the iPhone's iOS. Apple controls everything about it and you can't change how it works or see the code behind it. An open system is like Android. Anyone can look at the code, make changes or even create their own version of it like Samsung, Xiaomi, OnePlus, etc. For the last 2 years, if you wanted the best AI, you had two options. You either pay open AAI for chat jeopthic for claude. Both of these were closed systems, expensive to run, controlled by American companies. It felt like US had an enormous lead. And then this happened. Deep Seek. Deep Seek. Deep Seek. Deep Seek. Meet Deep Seek. Chinese built 100% open-source. It's also mighty powerful. On advanced reasoning tests, Deepseek scores 93%. OpenAI's latest model scores 95%. So, the difference is just 2%. But the most impressive part, Deepseek is 10 times cheaper than OpenAs's models. This changes everything because if you can get nearly the same performance but the model is 10 times cheaper, why would you pay the expensive version? One reason could be that data privacy issues with Chinese companies. But Deepsec is open source, so you can host it on your own servers and infrastructure and it's working. China's share of LLM usage jumped from 10% to 21% in just 12 months. And it's not just China. The entire open-source ecosystem is exploding. Meta has its own open-source model, Llama. This opensource model has been downloaded 1.2 billion times. To top it all, Meta just spent $15 billion to acquire Scale AI, a company that works on data labeling. And Zuck isn't stopping there. There have been reports that Meta is trying to poach top AI talent by offering them jaw-dropping salaries of $100 million. That's 900 cr rupees for a yearly salary. Oh man. The fundamental reason why everyone is going so hard on AI is because this isn't about technology. It's about power. AI leadership will determine geopolitical leadership, not the other way around. Here's something that confused me for a long time. If AI is as transformative as everyone says, why doesn't it feel like it's everywhere? I mean, you might use chat GBT. Maybe your company has talked about AI initiatives, but it still feels like, you know, optional, right? Well, it turns out that while we've been debating whether AI is overhyped, some of the world's biggest companies have been quietly integrating it into everything. Let me show you what I mean. This is Bank of America's AI assistant called Erica. Sounds harmless, just another chatbot. Erica has handled 2 billion customer interactions. That's not a beta program. That's not an experiment. That's a fullscale product handling billions of customer interactions. JP Morgan has 200 plus AI use cases in production. 50% of the S&P 500 companies mentioned AI in their recent earnings call. Do you see what's happening here? While we've been treating AI like it's experimental, it's becoming the norm. While we've been debating its potential is becoming productive. Everything we've talked about so far, the user adoption, the infrastructure, the competition, the enterprise deployment, that's all happening in the digital world. But AI is not stopping there. It's coming to the physical world and it's coming fast. One question that I started having when I was reading the report is that what happens when AI stops being software and starts being physically everywhere. Let me show you what I mean. In 2023 alone, the FDA approved 223 AI enabled medical devices. They're not apps. These are machines that diagnose cancer, assist in surgery, and manage drug discovery. The FDA just announced that they're integrating AI across all their centers by June 2025. We're talking about the agency that regulates food and medical being powered by artificial intelligence. In San Francisco, Whimo, the autonomous cab hailing service, went from 0% to 27% market share of ride share bookings in just 20 months. Tesla's full self-driving has logged 100 times more autonomous miles than it did last 3 years ago. And is building AI powered defense systems with revenue doubling year-over-year. We're talking about autonomous weapon systems and counter drone technology. Carbon Robotics has AI laser systems, eliminating weeds across two lakh 30,000 acres without herbicides. Countries around the world are treating AI infrastructure like they once treated highways and power grids as critical as national infrastructure. Because whoever controls AI doesn't just control software. They're controlling manufacturing, logistics, defense, medicine, energy, agriculture. Everything that happens in the physical world will be affected by AI. Do you remember that competition we talked about earlier? China has more industrial robots than the rest of the world combined. They are not just building better AI models. They are building AI powered infrastructure. It's predicted in the next 5 years we will have robot factories that are building more robots. That means robots are building more robots and that means an explosion of humanoid AI powered devices in the physical world. The transformation from digital AI to physical AI is happening faster than anyone predicted. So let me come back to that question I started with. Why is this AI different from VR or crypto or the metaverse? because those were additions to our existing world. AI is a replacement. Everything we talked about, the 800 million users of chat GPT, the 200 plus billion dollars in infrastructure, the geopolitical competition, the enterprise adoption, the physical world integration. It's all happening at the same time. And it's happening at a speed that's never seen before. This actually isn't about technology. It's about time. the window for adapting to this change for understanding it for positioning yourself or your company or your country that window used to be measured in years I think now it's months or even days in 1995 Mary Miker saw how the entire internet would reshape everything some people listened and then they built Amazon Google Facebook others waited and watched in 2025 she's saying that AI will reshape everything again but faster. The question is how fast are you ready to adopt AI? The full bond capital report will be linked below. Read it, study it because the next 12 months in AI are going to feel like the next decade. If this breakdown helped you see the bigger picture, hit subscribe because the future is happening whether we ready or",
+    "segments": [
+      {
+        "timestamp": "00:00",
+        "start_time": 0.24,
+        "duration": 4.4,
+        "text": "There's something that's been bothering"
+      },
+      {
+        "timestamp": "00:02",
+        "start_time": 2.159,
+        "duration": 4.001,
+        "text": "me."
+      },
+      {
+        "timestamp": "00:04",
+        "start_time": 4.64,
+        "duration": 4.48,
+        "text": "It started with a very simple"
+      },
+      {
+        "timestamp": "00:06",
+        "start_time": 6.16,
+        "duration": 6.08,
+        "text": "observation."
+      },
+      {
+        "timestamp": "00:09",
+        "start_time": 9.12,
+        "duration": 6.479,
+        "text": "Anytime a new tech event or a hype cycle"
+      },
+      {
+        "timestamp": "00:12",
+        "start_time": 12.24,
+        "duration": 5.039,
+        "text": "happens, right? It has the same energy."
+      },
+      {
+        "timestamp": "00:15",
+        "start_time": 15.599,
+        "duration": 3.6,
+        "text": "Honestly, I was getting tired of it."
+      },
+      {
+        "timestamp": "00:17",
+        "start_time": 17.279,
+        "duration": 3.601,
+        "text": "We've heard this story. VR was going to"
+      },
+      {
+        "timestamp": "00:19",
+        "start_time": 19.199,
+        "duration": 3.441,
+        "text": "change everything. Crypto was going to"
+      },
+      {
+        "timestamp": "00:20",
+        "start_time": 20.88,
+        "duration": 3.04,
+        "text": "replace money. We still have money. You"
+      },
+      {
+        "timestamp": "00:22",
+        "start_time": 22.64,
+        "duration": 3.44,
+        "text": "and I were going to meet in the"
+      },
+      {
+        "timestamp": "00:23",
+        "start_time": 23.92,
+        "duration": 4.72,
+        "text": "metaverse. Hasn't happened. Nothing has"
+      },
+      {
+        "timestamp": "00:26",
+        "start_time": 26.08,
+        "duration": 4.72,
+        "text": "happened. It's all a hype. But then I"
+      },
+      {
+        "timestamp": "00:28",
+        "start_time": 28.64,
+        "duration": 4.48,
+        "text": "read this report primarily because it"
+      },
+      {
+        "timestamp": "00:30",
+        "start_time": 30.8,
+        "duration": 4.24,
+        "text": "was Mary Miker, queen of the internet,"
+      },
+      {
+        "timestamp": "00:33",
+        "start_time": 33.12,
+        "duration": 3.76,
+        "text": "former Wall Street analyst forecasted"
+      },
+      {
+        "timestamp": "00:35",
+        "start_time": 35.04,
+        "duration": 5.28,
+        "text": "the rise of companies like Google,"
+      },
+      {
+        "timestamp": "00:36",
+        "start_time": 36.88,
+        "duration": 5.359,
+        "text": "Amazon, and Spotify. Mary Mer has always"
+      },
+      {
+        "timestamp": "00:40",
+        "start_time": 40.32,
+        "duration": 3.84,
+        "text": "been right about anything that she's"
+      },
+      {
+        "timestamp": "00:42",
+        "start_time": 42.239,
+        "duration": 4.881,
+        "text": "predicted. And so if she launched a"
+      },
+      {
+        "timestamp": "00:44",
+        "start_time": 44.16,
+        "duration": 6.32,
+        "text": "report, I had to read. And after reading"
+      },
+      {
+        "timestamp": "00:47",
+        "start_time": 47.12,
+        "duration": 6.0,
+        "text": "all 336 pages, which took 2 weeks by the"
+      },
+      {
+        "timestamp": "00:50",
+        "start_time": 50.48,
+        "duration": 6.079,
+        "text": "way, I realized something that honestly"
+      },
+      {
+        "timestamp": "00:53",
+        "start_time": 53.12,
+        "duration": 5.759,
+        "text": "kept me up at night. This AI phenomenon"
+      },
+      {
+        "timestamp": "00:56",
+        "start_time": 56.559,
+        "duration": 4.16,
+        "text": "does not feel like VR or crypto or the"
+      },
+      {
+        "timestamp": "00:58",
+        "start_time": 58.879,
+        "duration": 4.721,
+        "text": "metaverse. This is different. This is"
+      },
+      {
+        "timestamp": "01:00",
+        "start_time": 60.719,
+        "duration": 5.041,
+        "text": "happening faster, spreading wider and"
+      },
+      {
+        "timestamp": "01:03",
+        "start_time": 63.6,
+        "duration": 4.8,
+        "text": "reshaping the entire world as we know"
+      },
+      {
+        "timestamp": "01:05",
+        "start_time": 65.76,
+        "duration": 5.6,
+        "text": "it. I have also been missing the scale"
+      },
+      {
+        "timestamp": "01:08",
+        "start_time": 68.4,
+        "duration": 4.8,
+        "text": "at which AI is growing. This video is"
+      },
+      {
+        "timestamp": "01:11",
+        "start_time": 71.36,
+        "duration": 3.52,
+        "text": "our attempt to show you what we've"
+      },
+      {
+        "timestamp": "01:13",
+        "start_time": 73.2,
+        "duration": 4.0,
+        "text": "discovered after reading the report."
+      },
+      {
+        "timestamp": "01:14",
+        "start_time": 74.88,
+        "duration": 4.559,
+        "text": "Because if Mary Maker is right, and she"
+      },
+      {
+        "timestamp": "01:17",
+        "start_time": 77.2,
+        "duration": 4.4,
+        "text": "usually is, we're not just watching"
+      },
+      {
+        "timestamp": "01:19",
+        "start_time": 79.439,
+        "duration": 4.401,
+        "text": "another tech trend. We're watching the"
+      },
+      {
+        "timestamp": "01:21",
+        "start_time": 81.6,
+        "duration": 5.12,
+        "text": "fastest transformation of the human"
+      },
+      {
+        "timestamp": "01:23",
+        "start_time": 83.84,
+        "duration": 6.16,
+        "text": "civilization and it's happening right"
+      },
+      {
+        "timestamp": "01:26",
+        "start_time": 86.72,
+        "duration": 6.24,
+        "text": "now. We are now glad to be a part of the"
+      },
+      {
+        "timestamp": "01:30",
+        "start_time": 90.0,
+        "duration": 6.52,
+        "text": "01 media network by Zerodha. Let's get"
+      },
+      {
+        "timestamp": "01:32",
+        "start_time": 92.96,
+        "duration": 3.56,
+        "text": "back into the episode."
+      },
+      {
+        "timestamp": "01:36",
+        "start_time": 96.72,
+        "duration": 5.12,
+        "text": "How long do you think it takes for a new"
+      },
+      {
+        "timestamp": "01:39",
+        "start_time": 99.04,
+        "duration": 5.92,
+        "text": "technology to reach 100 million users?"
+      },
+      {
+        "timestamp": "01:41",
+        "start_time": 101.84,
+        "duration": 5.36,
+        "text": "The telephone took 50 years to reach 50%"
+      },
+      {
+        "timestamp": "01:44",
+        "start_time": 104.96,
+        "duration": 5.28,
+        "text": "of American households. Television took"
+      },
+      {
+        "timestamp": "01:47",
+        "start_time": 107.2,
+        "duration": 5.84,
+        "text": "30 years. Netflix took 10 years to reach"
+      },
+      {
+        "timestamp": "01:50",
+        "start_time": 110.24,
+        "duration": 5.44,
+        "text": "100 million users. Facebook did that in"
+      },
+      {
+        "timestamp": "01:53",
+        "start_time": 113.04,
+        "duration": 4.719,
+        "text": "just 4 years. Instagram did that in just"
+      },
+      {
+        "timestamp": "01:55",
+        "start_time": 115.68,
+        "duration": 4.479,
+        "text": "2 years. Did you notice something? Every"
+      },
+      {
+        "timestamp": "01:57",
+        "start_time": 117.759,
+        "duration": 4.561,
+        "text": "time a new technology is coming, it's"
+      },
+      {
+        "timestamp": "02:00",
+        "start_time": 120.159,
+        "duration": 4.401,
+        "text": "growing at two times the speed of the"
+      },
+      {
+        "timestamp": "02:02",
+        "start_time": 122.32,
+        "duration": 4.56,
+        "text": "previous one. So, Chad GPT should have"
+      },
+      {
+        "timestamp": "02:04",
+        "start_time": 124.56,
+        "duration": 4.08,
+        "text": "taken 1 year to reach the same number."
+      },
+      {
+        "timestamp": "02:06",
+        "start_time": 126.88,
+        "duration": 4.96,
+        "text": "But that's where AI is changing the"
+      },
+      {
+        "timestamp": "02:08",
+        "start_time": 128.64,
+        "duration": 7.52,
+        "text": "rules completely. Chad GPT did 100"
+      },
+      {
+        "timestamp": "02:11",
+        "start_time": 131.84,
+        "duration": 6.56,
+        "text": "million users in just 60 days. And I got"
+      },
+      {
+        "timestamp": "02:16",
+        "start_time": 136.16,
+        "duration": 4.48,
+        "text": "thinking, why is it growing so fast?"
+      },
+      {
+        "timestamp": "02:18",
+        "start_time": 138.4,
+        "duration": 4.32,
+        "text": "Here's what we think is happening. If"
+      },
+      {
+        "timestamp": "02:20",
+        "start_time": 140.64,
+        "duration": 3.76,
+        "text": "you want customers to come and use your"
+      },
+      {
+        "timestamp": "02:22",
+        "start_time": 142.72,
+        "duration": 3.36,
+        "text": "product, you typically need a bunch of"
+      },
+      {
+        "timestamp": "02:24",
+        "start_time": 144.4,
+        "duration": 3.68,
+        "text": "things to make that happen. If you sold"
+      },
+      {
+        "timestamp": "02:26",
+        "start_time": 146.08,
+        "duration": 3.68,
+        "text": "cars, you need good roads. You need"
+      },
+      {
+        "timestamp": "02:28",
+        "start_time": 148.08,
+        "duration": 3.44,
+        "text": "access to pedal bombs. And you need a"
+      },
+      {
+        "timestamp": "02:29",
+        "start_time": 149.76,
+        "duration": 4.72,
+        "text": "distributor who will help you sell the"
+      },
+      {
+        "timestamp": "02:31",
+        "start_time": 151.52,
+        "duration": 4.96,
+        "text": "product. Even Instagram or YouTube, you"
+      },
+      {
+        "timestamp": "02:34",
+        "start_time": 154.48,
+        "duration": 3.759,
+        "text": "need cheap data to consume content."
+      },
+      {
+        "timestamp": "02:36",
+        "start_time": 156.48,
+        "duration": 4.64,
+        "text": "Thanks to Jio, the adoption of these"
+      },
+      {
+        "timestamp": "02:38",
+        "start_time": 158.239,
+        "duration": 5.761,
+        "text": "tools have exploded. But with chat GPT,"
+      },
+      {
+        "timestamp": "02:41",
+        "start_time": 161.12,
+        "duration": 4.479,
+        "text": "everything what it needs is already"
+      },
+      {
+        "timestamp": "02:44",
+        "start_time": 164.0,
+        "duration": 3.84,
+        "text": "there. The timing couldn't have been"
+      },
+      {
+        "timestamp": "02:45",
+        "start_time": 165.599,
+        "duration": 5.28,
+        "text": "more perfect. AI needed three things in"
+      },
+      {
+        "timestamp": "02:47",
+        "start_time": 167.84,
+        "duration": 5.759,
+        "text": "abundance. Data, compute, and easy"
+      },
+      {
+        "timestamp": "02:50",
+        "start_time": 170.879,
+        "duration": 4.961,
+        "text": "access to users. AI got all the data"
+      },
+      {
+        "timestamp": "02:53",
+        "start_time": 173.599,
+        "duration": 4.64,
+        "text": "from internet. 30 years of people like"
+      },
+      {
+        "timestamp": "02:55",
+        "start_time": 175.84,
+        "duration": 4.56,
+        "text": "you and I sharing knowledge online was"
+      },
+      {
+        "timestamp": "02:58",
+        "start_time": 178.239,
+        "duration": 5.121,
+        "text": "fed into it, which is why it became so"
+      },
+      {
+        "timestamp": "03:00",
+        "start_time": 180.4,
+        "duration": 5.44,
+        "text": "useful. Second was compute. AI needed a"
+      },
+      {
+        "timestamp": "03:03",
+        "start_time": 183.36,
+        "duration": 4.56,
+        "text": "lot of powerful GPUs and hardware to be"
+      },
+      {
+        "timestamp": "03:05",
+        "start_time": 185.84,
+        "duration": 4.319,
+        "text": "trained on. hardware has gotten so"
+      },
+      {
+        "timestamp": "03:07",
+        "start_time": 187.92,
+        "duration": 5.52,
+        "text": "powerful that even the smartphone that"
+      },
+      {
+        "timestamp": "03:10",
+        "start_time": 190.159,
+        "duration": 4.961,
+        "text": "you use is 10,000 times more powerful"
+      },
+      {
+        "timestamp": "03:13",
+        "start_time": 193.44,
+        "duration": 4.0,
+        "text": "than the computer that was used by the"
+      },
+      {
+        "timestamp": "03:15",
+        "start_time": 195.12,
+        "duration": 5.28,
+        "text": "astronauts that landed on the moon. And"
+      },
+      {
+        "timestamp": "03:17",
+        "start_time": 197.44,
+        "duration": 5.439,
+        "text": "finally, easy access to users. Almost"
+      },
+      {
+        "timestamp": "03:20",
+        "start_time": 200.4,
+        "duration": 4.559,
+        "text": "every single person has a smartphone"
+      },
+      {
+        "timestamp": "03:22",
+        "start_time": 202.879,
+        "duration": 4.961,
+        "text": "with data access. This means that chat"
+      },
+      {
+        "timestamp": "03:24",
+        "start_time": 204.959,
+        "duration": 6.161,
+        "text": "GPT was available to everyone instantly"
+      },
+      {
+        "timestamp": "03:27",
+        "start_time": 207.84,
+        "duration": 5.44,
+        "text": "all at once. Did you know that 63% of"
+      },
+      {
+        "timestamp": "03:31",
+        "start_time": 211.12,
+        "duration": 4.24,
+        "text": "developers are building with AI? That"
+      },
+      {
+        "timestamp": "03:33",
+        "start_time": 213.28,
+        "duration": 4.239,
+        "text": "means the market is going to explode"
+      },
+      {
+        "timestamp": "03:35",
+        "start_time": 215.36,
+        "duration": 4.879,
+        "text": "with AI first products that are going to"
+      },
+      {
+        "timestamp": "03:37",
+        "start_time": 217.519,
+        "duration": 4.961,
+        "text": "disrupt every single industry. Yes,"
+      },
+      {
+        "timestamp": "03:40",
+        "start_time": 220.239,
+        "duration": 4.56,
+        "text": "every single one. No one is prepared for"
+      },
+      {
+        "timestamp": "03:42",
+        "start_time": 222.48,
+        "duration": 5.8,
+        "text": "the kind of disruption that is about to"
+      },
+      {
+        "timestamp": "03:44",
+        "start_time": 224.799,
+        "duration": 3.481,
+        "text": "hit the market."
+      },
+      {
+        "timestamp": "03:50",
+        "start_time": 230.319,
+        "duration": 3.681,
+        "text": "Before we go ahead, I need a minute of"
+      },
+      {
+        "timestamp": "03:52",
+        "start_time": 232.319,
+        "duration": 3.441,
+        "text": "yours. I'm sure if you've watched our"
+      },
+      {
+        "timestamp": "03:54",
+        "start_time": 234.0,
+        "duration": 3.76,
+        "text": "videos before, you've heard us talk"
+      },
+      {
+        "timestamp": "03:55",
+        "start_time": 235.76,
+        "duration": 4.72,
+        "text": "about the Kodas community. We are a"
+      },
+      {
+        "timestamp": "03:57",
+        "start_time": 237.76,
+        "duration": 5.52,
+        "text": "community of 4,000 plus leaders and"
+      },
+      {
+        "timestamp": "04:00",
+        "start_time": 240.48,
+        "duration": 6.0,
+        "text": "operators from Apple, Tik Tok, Slack,"
+      },
+      {
+        "timestamp": "04:03",
+        "start_time": 243.28,
+        "duration": 4.879,
+        "text": "Zoom, Spotify, Canva, Lemon Labs, Nike,"
+      },
+      {
+        "timestamp": "04:06",
+        "start_time": 246.48,
+        "duration": 4.64,
+        "text": "and more. What do they get? They get"
+      },
+      {
+        "timestamp": "04:08",
+        "start_time": 248.159,
+        "duration": 6.16,
+        "text": "three unfair advantages. First, access"
+      },
+      {
+        "timestamp": "04:11",
+        "start_time": 251.12,
+        "duration": 6.72,
+        "text": "to in-person meetups hosted every single"
+      },
+      {
+        "timestamp": "04:14",
+        "start_time": 254.319,
+        "duration": 5.521,
+        "text": "week across 11 Indian cities, plus an"
+      },
+      {
+        "timestamp": "04:17",
+        "start_time": 257.84,
+        "duration": 4.239,
+        "text": "online community where the world's top"
+      },
+      {
+        "timestamp": "04:19",
+        "start_time": 259.84,
+        "duration": 4.96,
+        "text": "operators are just one message away."
+      },
+      {
+        "timestamp": "04:22",
+        "start_time": 262.079,
+        "duration": 5.521,
+        "text": "Second, they get to learn from the"
+      },
+      {
+        "timestamp": "04:24",
+        "start_time": 264.8,
+        "duration": 5.119,
+        "text": "world's best folks across every single"
+      },
+      {
+        "timestamp": "04:27",
+        "start_time": 267.6,
+        "duration": 4.4,
+        "text": "topic you can think of. AI, strategy,"
+      },
+      {
+        "timestamp": "04:29",
+        "start_time": 269.919,
+        "duration": 4.641,
+        "text": "product growth, brand, you name it. And"
+      },
+      {
+        "timestamp": "04:32",
+        "start_time": 272.0,
+        "duration": 5.84,
+        "text": "last, but definitely not the least, they"
+      },
+      {
+        "timestamp": "04:34",
+        "start_time": 274.56,
+        "duration": 6.079,
+        "text": "get access to a $100,000"
+      },
+      {
+        "timestamp": "04:37",
+        "start_time": 277.84,
+        "duration": 5.2,
+        "text": "worth of exclusive perks from the top"
+      },
+      {
+        "timestamp": "04:40",
+        "start_time": 280.639,
+        "duration": 4.641,
+        "text": "brands in the world like Wework, Notion,"
+      },
+      {
+        "timestamp": "04:43",
+        "start_time": 283.04,
+        "duration": 4.159,
+        "text": "Mochabara, Lens Card, and a lot more."
+      },
+      {
+        "timestamp": "04:45",
+        "start_time": 285.28,
+        "duration": 3.6,
+        "text": "You can explore about Rubex in the link"
+      },
+      {
+        "timestamp": "04:47",
+        "start_time": 287.199,
+        "duration": 3.44,
+        "text": "in the description. Here's a question"
+      },
+      {
+        "timestamp": "04:48",
+        "start_time": 288.88,
+        "duration": 3.599,
+        "text": "that will connect everything we just"
+      },
+      {
+        "timestamp": "04:50",
+        "start_time": 290.639,
+        "duration": 4.321,
+        "text": "spoke about. What happens when millions"
+      },
+      {
+        "timestamp": "04:52",
+        "start_time": 292.479,
+        "duration": 3.921,
+        "text": "of people who use chatg, the millions of"
+      },
+      {
+        "timestamp": "04:54",
+        "start_time": 294.96,
+        "duration": 3.84,
+        "text": "developers that are using it, plus"
+      },
+      {
+        "timestamp": "04:56",
+        "start_time": 296.4,
+        "duration": 5.28,
+        "text": "thousands of companies all want to use"
+      },
+      {
+        "timestamp": "04:58",
+        "start_time": 298.8,
+        "duration": 5.28,
+        "text": "AI at the same time? You get the largest"
+      },
+      {
+        "timestamp": "05:01",
+        "start_time": 301.68,
+        "duration": 4.799,
+        "text": "infrastructure building plan in human"
+      },
+      {
+        "timestamp": "05:04",
+        "start_time": 304.08,
+        "duration": 5.679,
+        "text": "history. Last year, the biggest tech"
+      },
+      {
+        "timestamp": "05:06",
+        "start_time": 306.479,
+        "duration": 5.601,
+        "text": "companies spent $212"
+      },
+      {
+        "timestamp": "05:09",
+        "start_time": 309.759,
+        "duration": 4.641,
+        "text": "billion on infrastructure. That's not"
+      },
+      {
+        "timestamp": "05:12",
+        "start_time": 312.08,
+        "duration": 5.119,
+        "text": "revenue. That's not market cap. That's"
+      },
+      {
+        "timestamp": "05:14",
+        "start_time": 314.4,
+        "duration": 5.04,
+        "text": "actual money spent on servers, data"
+      },
+      {
+        "timestamp": "05:17",
+        "start_time": 317.199,
+        "duration": 4.961,
+        "text": "centers, and chips. That's more than the"
+      },
+      {
+        "timestamp": "05:19",
+        "start_time": 319.44,
+        "duration": 5.68,
+        "text": "GDP of most countries. Let me show you"
+      },
+      {
+        "timestamp": "05:22",
+        "start_time": 322.16,
+        "duration": 5.68,
+        "text": "what 212 billion actually looks like."
+      },
+      {
+        "timestamp": "05:25",
+        "start_time": 325.12,
+        "duration": 6.56,
+        "text": "This is XAI's colossal facility in"
+      },
+      {
+        "timestamp": "05:27",
+        "start_time": 327.84,
+        "duration": 7.76,
+        "text": "Memphis, Tennessee. 7 lakh 50,000 square"
+      },
+      {
+        "timestamp": "05:31",
+        "start_time": 331.68,
+        "duration": 6.48,
+        "text": "ft having 2 lakh high-end GPUs built in"
+      },
+      {
+        "timestamp": "05:35",
+        "start_time": 335.6,
+        "duration": 4.4,
+        "text": "just 3 months. Even a residential house"
+      },
+      {
+        "timestamp": "05:38",
+        "start_time": 338.16,
+        "duration": 3.68,
+        "text": "takes 6 to 12 months to be built. And"
+      },
+      {
+        "timestamp": "05:40",
+        "start_time": 340.0,
+        "duration": 4.479,
+        "text": "that's not it. Donald Trump has"
+      },
+      {
+        "timestamp": "05:41",
+        "start_time": 341.84,
+        "duration": 5.12,
+        "text": "announced projects target to build AI"
+      },
+      {
+        "timestamp": "05:44",
+        "start_time": 344.479,
+        "duration": 6.641,
+        "text": "infrastructure in the US. This project"
+      },
+      {
+        "timestamp": "05:46",
+        "start_time": 346.96,
+        "duration": 6.72,
+        "text": "alone costs more than $500 billion."
+      },
+      {
+        "timestamp": "05:51",
+        "start_time": 351.12,
+        "duration": 5.12,
+        "text": "That's a lot of data centers and data"
+      },
+      {
+        "timestamp": "05:53",
+        "start_time": 353.68,
+        "duration": 5.2,
+        "text": "centers need electricity. These"
+      },
+      {
+        "timestamp": "05:56",
+        "start_time": 356.24,
+        "duration": 5.12,
+        "text": "facilities use enormous amount of"
+      },
+      {
+        "timestamp": "05:58",
+        "start_time": 358.88,
+        "duration": 6.64,
+        "text": "electricities. Data centers already"
+      },
+      {
+        "timestamp": "06:01",
+        "start_time": 361.36,
+        "duration": 6.399,
+        "text": "consume 1.5% of all global electricity"
+      },
+      {
+        "timestamp": "06:05",
+        "start_time": 365.52,
+        "duration": 5.519,
+        "text": "and demand is growing exponentially."
+      },
+      {
+        "timestamp": "06:07",
+        "start_time": 367.759,
+        "duration": 6.081,
+        "text": "Even though our chips are getting 1 lakh"
+      },
+      {
+        "timestamp": "06:11",
+        "start_time": 371.039,
+        "duration": 5.681,
+        "text": "times, yes one lakh times more"
+      },
+      {
+        "timestamp": "06:13",
+        "start_time": 373.84,
+        "duration": 5.52,
+        "text": "efficient, total energy consumption is"
+      },
+      {
+        "timestamp": "06:16",
+        "start_time": 376.72,
+        "duration": 5.199,
+        "text": "still rising because demand is growing"
+      },
+      {
+        "timestamp": "06:19",
+        "start_time": 379.36,
+        "duration": 5.36,
+        "text": "much much faster than efficiency. I"
+      },
+      {
+        "timestamp": "06:21",
+        "start_time": 381.919,
+        "duration": 4.961,
+        "text": "think we are going to see electricity"
+      },
+      {
+        "timestamp": "06:24",
+        "start_time": 384.72,
+        "duration": 4.479,
+        "text": "coming from nuclear power becoming the"
+      },
+      {
+        "timestamp": "06:26",
+        "start_time": 386.88,
+        "duration": 4.64,
+        "text": "norm. Now if any country wants to win"
+      },
+      {
+        "timestamp": "06:29",
+        "start_time": 389.199,
+        "duration": 4.641,
+        "text": "the AI war, it's going to come down to"
+      },
+      {
+        "timestamp": "06:31",
+        "start_time": 391.52,
+        "duration": 5.36,
+        "text": "infrastructure. There are two kinds of"
+      },
+      {
+        "timestamp": "06:33",
+        "start_time": 393.84,
+        "duration": 4.88,
+        "text": "AI systems right now, open and closed. A"
+      },
+      {
+        "timestamp": "06:36",
+        "start_time": 396.88,
+        "duration": 4.72,
+        "text": "closed system is like let's say the"
+      },
+      {
+        "timestamp": "06:38",
+        "start_time": 398.72,
+        "duration": 4.88,
+        "text": "iPhone's iOS. Apple controls everything"
+      },
+      {
+        "timestamp": "06:41",
+        "start_time": 401.6,
+        "duration": 4.879,
+        "text": "about it and you can't change how it"
+      },
+      {
+        "timestamp": "06:43",
+        "start_time": 403.6,
+        "duration": 5.68,
+        "text": "works or see the code behind it. An open"
+      },
+      {
+        "timestamp": "06:46",
+        "start_time": 406.479,
+        "duration": 5.361,
+        "text": "system is like Android. Anyone can look"
+      },
+      {
+        "timestamp": "06:49",
+        "start_time": 409.28,
+        "duration": 4.639,
+        "text": "at the code, make changes or even create"
+      },
+      {
+        "timestamp": "06:51",
+        "start_time": 411.84,
+        "duration": 5.44,
+        "text": "their own version of it like Samsung,"
+      },
+      {
+        "timestamp": "06:53",
+        "start_time": 413.919,
+        "duration": 6.4,
+        "text": "Xiaomi, OnePlus, etc. For the last 2"
+      },
+      {
+        "timestamp": "06:57",
+        "start_time": 417.28,
+        "duration": 5.759,
+        "text": "years, if you wanted the best AI, you"
+      },
+      {
+        "timestamp": "07:00",
+        "start_time": 420.319,
+        "duration": 4.88,
+        "text": "had two options. You either pay open AAI"
+      },
+      {
+        "timestamp": "07:03",
+        "start_time": 423.039,
+        "duration": 4.481,
+        "text": "for chat jeopthic"
+      },
+      {
+        "timestamp": "07:05",
+        "start_time": 425.199,
+        "duration": 4.961,
+        "text": "for claude. Both of these were closed"
+      },
+      {
+        "timestamp": "07:07",
+        "start_time": 427.52,
+        "duration": 5.679,
+        "text": "systems, expensive to run, controlled by"
+      },
+      {
+        "timestamp": "07:10",
+        "start_time": 430.16,
+        "duration": 5.52,
+        "text": "American companies. It felt like US had"
+      },
+      {
+        "timestamp": "07:13",
+        "start_time": 433.199,
+        "duration": 4.72,
+        "text": "an enormous lead. And then this"
+      },
+      {
+        "timestamp": "07:15",
+        "start_time": 435.68,
+        "duration": 5.359,
+        "text": "happened. Deep Seek. Deep Seek. Deep"
+      },
+      {
+        "timestamp": "07:17",
+        "start_time": 437.919,
+        "duration": 7.361,
+        "text": "Seek. Deep Seek. Meet Deep Seek. Chinese"
+      },
+      {
+        "timestamp": "07:21",
+        "start_time": 441.039,
+        "duration": 6.961,
+        "text": "built 100% open-source. It's also mighty"
+      },
+      {
+        "timestamp": "07:25",
+        "start_time": 445.28,
+        "duration": 6.639,
+        "text": "powerful. On advanced reasoning tests,"
+      },
+      {
+        "timestamp": "07:28",
+        "start_time": 448.0,
+        "duration": 6.4,
+        "text": "Deepseek scores 93%. OpenAI's latest"
+      },
+      {
+        "timestamp": "07:31",
+        "start_time": 451.919,
+        "duration": 5.761,
+        "text": "model scores 95%. So, the difference is"
+      },
+      {
+        "timestamp": "07:34",
+        "start_time": 454.4,
+        "duration": 6.4,
+        "text": "just 2%. But the most impressive part,"
+      },
+      {
+        "timestamp": "07:37",
+        "start_time": 457.68,
+        "duration": 6.0,
+        "text": "Deepseek is 10 times cheaper than"
+      },
+      {
+        "timestamp": "07:40",
+        "start_time": 460.8,
+        "duration": 5.04,
+        "text": "OpenAs's models. This changes everything"
+      },
+      {
+        "timestamp": "07:43",
+        "start_time": 463.68,
+        "duration": 4.48,
+        "text": "because if you can get nearly the same"
+      },
+      {
+        "timestamp": "07:45",
+        "start_time": 465.84,
+        "duration": 4.72,
+        "text": "performance but the model is 10 times"
+      },
+      {
+        "timestamp": "07:48",
+        "start_time": 468.16,
+        "duration": 5.12,
+        "text": "cheaper, why would you pay the expensive"
+      },
+      {
+        "timestamp": "07:50",
+        "start_time": 470.56,
+        "duration": 4.72,
+        "text": "version? One reason could be that data"
+      },
+      {
+        "timestamp": "07:53",
+        "start_time": 473.28,
+        "duration": 4.56,
+        "text": "privacy issues with Chinese companies."
+      },
+      {
+        "timestamp": "07:55",
+        "start_time": 475.28,
+        "duration": 4.4,
+        "text": "But Deepsec is open source, so you can"
+      },
+      {
+        "timestamp": "07:57",
+        "start_time": 477.84,
+        "duration": 5.12,
+        "text": "host it on your own servers and"
+      },
+      {
+        "timestamp": "07:59",
+        "start_time": 479.68,
+        "duration": 7.04,
+        "text": "infrastructure and it's working. China's"
+      },
+      {
+        "timestamp": "08:02",
+        "start_time": 482.96,
+        "duration": 7.04,
+        "text": "share of LLM usage jumped from 10% to"
+      },
+      {
+        "timestamp": "08:06",
+        "start_time": 486.72,
+        "duration": 6.24,
+        "text": "21% in just 12 months. And it's not just"
+      },
+      {
+        "timestamp": "08:10",
+        "start_time": 490.0,
+        "duration": 5.52,
+        "text": "China. The entire open-source ecosystem"
+      },
+      {
+        "timestamp": "08:12",
+        "start_time": 492.96,
+        "duration": 5.28,
+        "text": "is exploding. Meta has its own"
+      },
+      {
+        "timestamp": "08:15",
+        "start_time": 495.52,
+        "duration": 5.359,
+        "text": "open-source model, Llama. This"
+      },
+      {
+        "timestamp": "08:18",
+        "start_time": 498.24,
+        "duration": 5.2,
+        "text": "opensource model has been downloaded 1.2"
+      },
+      {
+        "timestamp": "08:20",
+        "start_time": 500.879,
+        "duration": 6.32,
+        "text": "billion times. To top it all, Meta just"
+      },
+      {
+        "timestamp": "08:23",
+        "start_time": 503.44,
+        "duration": 6.0,
+        "text": "spent $15 billion to acquire Scale AI, a"
+      },
+      {
+        "timestamp": "08:27",
+        "start_time": 507.199,
+        "duration": 4.4,
+        "text": "company that works on data labeling. And"
+      },
+      {
+        "timestamp": "08:29",
+        "start_time": 509.44,
+        "duration": 3.92,
+        "text": "Zuck isn't stopping there. There have"
+      },
+      {
+        "timestamp": "08:31",
+        "start_time": 511.599,
+        "duration": 4.161,
+        "text": "been reports that Meta is trying to"
+      },
+      {
+        "timestamp": "08:33",
+        "start_time": 513.36,
+        "duration": 5.359,
+        "text": "poach top AI talent by offering them"
+      },
+      {
+        "timestamp": "08:35",
+        "start_time": 515.76,
+        "duration": 5.92,
+        "text": "jaw-dropping salaries of $100 million."
+      },
+      {
+        "timestamp": "08:38",
+        "start_time": 518.719,
+        "duration": 6.481,
+        "text": "That's 900 cr rupees for a yearly"
+      },
+      {
+        "timestamp": "08:41",
+        "start_time": 521.68,
+        "duration": 7.12,
+        "text": "salary. Oh man. The fundamental reason"
+      },
+      {
+        "timestamp": "08:45",
+        "start_time": 525.2,
+        "duration": 6.16,
+        "text": "why everyone is going so hard on AI is"
+      },
+      {
+        "timestamp": "08:48",
+        "start_time": 528.8,
+        "duration": 5.68,
+        "text": "because this isn't about technology."
+      },
+      {
+        "timestamp": "08:51",
+        "start_time": 531.36,
+        "duration": 6.32,
+        "text": "It's about power. AI leadership will"
+      },
+      {
+        "timestamp": "08:54",
+        "start_time": 534.48,
+        "duration": 6.919,
+        "text": "determine geopolitical leadership, not"
+      },
+      {
+        "timestamp": "08:57",
+        "start_time": 537.68,
+        "duration": 3.719,
+        "text": "the other way around."
+      },
+      {
+        "timestamp": "09:02",
+        "start_time": 542.08,
+        "duration": 4.64,
+        "text": "Here's something that confused me for a"
+      },
+      {
+        "timestamp": "09:03",
+        "start_time": 543.839,
+        "duration": 5.361,
+        "text": "long time. If AI is as transformative as"
+      },
+      {
+        "timestamp": "09:06",
+        "start_time": 546.72,
+        "duration": 5.04,
+        "text": "everyone says, why doesn't it feel like"
+      },
+      {
+        "timestamp": "09:09",
+        "start_time": 549.2,
+        "duration": 4.72,
+        "text": "it's everywhere? I mean, you might use"
+      },
+      {
+        "timestamp": "09:11",
+        "start_time": 551.76,
+        "duration": 4.639,
+        "text": "chat GBT. Maybe your company has talked"
+      },
+      {
+        "timestamp": "09:13",
+        "start_time": 553.92,
+        "duration": 4.96,
+        "text": "about AI initiatives, but it still feels"
+      },
+      {
+        "timestamp": "09:16",
+        "start_time": 556.399,
+        "duration": 4.721,
+        "text": "like, you know, optional, right? Well,"
+      },
+      {
+        "timestamp": "09:18",
+        "start_time": 558.88,
+        "duration": 4.399,
+        "text": "it turns out that while we've been"
+      },
+      {
+        "timestamp": "09:21",
+        "start_time": 561.12,
+        "duration": 4.08,
+        "text": "debating whether AI is overhyped, some"
+      },
+      {
+        "timestamp": "09:23",
+        "start_time": 563.279,
+        "duration": 4.481,
+        "text": "of the world's biggest companies have"
+      },
+      {
+        "timestamp": "09:25",
+        "start_time": 565.2,
+        "duration": 5.28,
+        "text": "been quietly integrating it into"
+      },
+      {
+        "timestamp": "09:27",
+        "start_time": 567.76,
+        "duration": 5.92,
+        "text": "everything. Let me show you what I mean."
+      },
+      {
+        "timestamp": "09:30",
+        "start_time": 570.48,
+        "duration": 6.32,
+        "text": "This is Bank of America's AI assistant"
+      },
+      {
+        "timestamp": "09:33",
+        "start_time": 573.68,
+        "duration": 6.96,
+        "text": "called Erica. Sounds harmless, just"
+      },
+      {
+        "timestamp": "09:36",
+        "start_time": 576.8,
+        "duration": 6.719,
+        "text": "another chatbot. Erica has handled 2"
+      },
+      {
+        "timestamp": "09:40",
+        "start_time": 580.64,
+        "duration": 5.68,
+        "text": "billion customer interactions. That's"
+      },
+      {
+        "timestamp": "09:43",
+        "start_time": 583.519,
+        "duration": 5.361,
+        "text": "not a beta program. That's not an"
+      },
+      {
+        "timestamp": "09:46",
+        "start_time": 586.32,
+        "duration": 4.24,
+        "text": "experiment. That's a fullscale product"
+      },
+      {
+        "timestamp": "09:48",
+        "start_time": 588.88,
+        "duration": 5.519,
+        "text": "handling billions of customer"
+      },
+      {
+        "timestamp": "09:50",
+        "start_time": 590.56,
+        "duration": 6.959,
+        "text": "interactions. JP Morgan has 200 plus AI"
+      },
+      {
+        "timestamp": "09:54",
+        "start_time": 594.399,
+        "duration": 6.161,
+        "text": "use cases in production. 50% of the S&P"
+      },
+      {
+        "timestamp": "09:57",
+        "start_time": 597.519,
+        "duration": 5.361,
+        "text": "500 companies mentioned AI in their"
+      },
+      {
+        "timestamp": "10:00",
+        "start_time": 600.56,
+        "duration": 3.839,
+        "text": "recent earnings call. Do you see what's"
+      },
+      {
+        "timestamp": "10:02",
+        "start_time": 602.88,
+        "duration": 4.079,
+        "text": "happening here? While we've been"
+      },
+      {
+        "timestamp": "10:04",
+        "start_time": 604.399,
+        "duration": 4.88,
+        "text": "treating AI like it's experimental, it's"
+      },
+      {
+        "timestamp": "10:06",
+        "start_time": 606.959,
+        "duration": 4.481,
+        "text": "becoming the norm. While we've been"
+      },
+      {
+        "timestamp": "10:09",
+        "start_time": 609.279,
+        "duration": 3.921,
+        "text": "debating its potential is becoming"
+      },
+      {
+        "timestamp": "10:11",
+        "start_time": 611.44,
+        "duration": 4.0,
+        "text": "productive. Everything we've talked"
+      },
+      {
+        "timestamp": "10:13",
+        "start_time": 613.2,
+        "duration": 4.56,
+        "text": "about so far, the user adoption, the"
+      },
+      {
+        "timestamp": "10:15",
+        "start_time": 615.44,
+        "duration": 4.56,
+        "text": "infrastructure, the competition, the"
+      },
+      {
+        "timestamp": "10:17",
+        "start_time": 617.76,
+        "duration": 5.28,
+        "text": "enterprise deployment, that's all"
+      },
+      {
+        "timestamp": "10:20",
+        "start_time": 620.0,
+        "duration": 5.519,
+        "text": "happening in the digital world. But AI"
+      },
+      {
+        "timestamp": "10:23",
+        "start_time": 623.04,
+        "duration": 5.52,
+        "text": "is not stopping there. It's coming to"
+      },
+      {
+        "timestamp": "10:25",
+        "start_time": 625.519,
+        "duration": 5.601,
+        "text": "the physical world and it's coming fast."
+      },
+      {
+        "timestamp": "10:28",
+        "start_time": 628.56,
+        "duration": 4.8,
+        "text": "One question that I started having when"
+      },
+      {
+        "timestamp": "10:31",
+        "start_time": 631.12,
+        "duration": 5.2,
+        "text": "I was reading the report is that what"
+      },
+      {
+        "timestamp": "10:33",
+        "start_time": 633.36,
+        "duration": 5.84,
+        "text": "happens when AI stops being software and"
+      },
+      {
+        "timestamp": "10:36",
+        "start_time": 636.32,
+        "duration": 5.92,
+        "text": "starts being physically everywhere. Let"
+      },
+      {
+        "timestamp": "10:39",
+        "start_time": 639.2,
+        "duration": 6.879,
+        "text": "me show you what I mean. In 2023 alone,"
+      },
+      {
+        "timestamp": "10:42",
+        "start_time": 642.24,
+        "duration": 6.08,
+        "text": "the FDA approved 223"
+      },
+      {
+        "timestamp": "10:46",
+        "start_time": 646.079,
+        "duration": 4.641,
+        "text": "AI enabled medical devices. They're not"
+      },
+      {
+        "timestamp": "10:48",
+        "start_time": 648.32,
+        "duration": 5.12,
+        "text": "apps. These are machines that diagnose"
+      },
+      {
+        "timestamp": "10:50",
+        "start_time": 650.72,
+        "duration": 5.28,
+        "text": "cancer, assist in surgery, and manage"
+      },
+      {
+        "timestamp": "10:53",
+        "start_time": 653.44,
+        "duration": 5.2,
+        "text": "drug discovery. The FDA just announced"
+      },
+      {
+        "timestamp": "10:56",
+        "start_time": 656.0,
+        "duration": 5.2,
+        "text": "that they're integrating AI across all"
+      },
+      {
+        "timestamp": "10:58",
+        "start_time": 658.64,
+        "duration": 4.96,
+        "text": "their centers by June 2025. We're"
+      },
+      {
+        "timestamp": "11:01",
+        "start_time": 661.2,
+        "duration": 5.12,
+        "text": "talking about the agency that regulates"
+      },
+      {
+        "timestamp": "11:03",
+        "start_time": 663.6,
+        "duration": 4.64,
+        "text": "food and medical being powered by"
+      },
+      {
+        "timestamp": "11:06",
+        "start_time": 666.32,
+        "duration": 5.44,
+        "text": "artificial intelligence. In San"
+      },
+      {
+        "timestamp": "11:08",
+        "start_time": 668.24,
+        "duration": 7.76,
+        "text": "Francisco, Whimo, the autonomous cab"
+      },
+      {
+        "timestamp": "11:11",
+        "start_time": 671.76,
+        "duration": 6.4,
+        "text": "hailing service, went from 0% to 27%"
+      },
+      {
+        "timestamp": "11:16",
+        "start_time": 676.0,
+        "duration": 4.32,
+        "text": "market share of ride share bookings in"
+      },
+      {
+        "timestamp": "11:18",
+        "start_time": 678.16,
+        "duration": 5.04,
+        "text": "just 20 months. Tesla's full"
+      },
+      {
+        "timestamp": "11:20",
+        "start_time": 680.32,
+        "duration": 5.759,
+        "text": "self-driving has logged 100 times more"
+      },
+      {
+        "timestamp": "11:23",
+        "start_time": 683.2,
+        "duration": 5.92,
+        "text": "autonomous miles than it did last 3"
+      },
+      {
+        "timestamp": "11:26",
+        "start_time": 686.079,
+        "duration": 5.601,
+        "text": "years ago. And is building AI powered"
+      },
+      {
+        "timestamp": "11:29",
+        "start_time": 689.12,
+        "duration": 4.48,
+        "text": "defense systems with revenue doubling"
+      },
+      {
+        "timestamp": "11:31",
+        "start_time": 691.68,
+        "duration": 4.48,
+        "text": "year-over-year. We're talking about"
+      },
+      {
+        "timestamp": "11:33",
+        "start_time": 693.6,
+        "duration": 5.44,
+        "text": "autonomous weapon systems and counter"
+      },
+      {
+        "timestamp": "11:36",
+        "start_time": 696.16,
+        "duration": 5.44,
+        "text": "drone technology. Carbon Robotics has AI"
+      },
+      {
+        "timestamp": "11:39",
+        "start_time": 699.04,
+        "duration": 5.44,
+        "text": "laser systems, eliminating weeds across"
+      },
+      {
+        "timestamp": "11:41",
+        "start_time": 701.6,
+        "duration": 5.2,
+        "text": "two lakh 30,000 acres without"
+      },
+      {
+        "timestamp": "11:44",
+        "start_time": 704.48,
+        "duration": 4.64,
+        "text": "herbicides. Countries around the world"
+      },
+      {
+        "timestamp": "11:46",
+        "start_time": 706.8,
+        "duration": 6.159,
+        "text": "are treating AI infrastructure like they"
+      },
+      {
+        "timestamp": "11:49",
+        "start_time": 709.12,
+        "duration": 6.32,
+        "text": "once treated highways and power grids as"
+      },
+      {
+        "timestamp": "11:52",
+        "start_time": 712.959,
+        "duration": 5.521,
+        "text": "critical as national infrastructure."
+      },
+      {
+        "timestamp": "11:55",
+        "start_time": 715.44,
+        "duration": 5.04,
+        "text": "Because whoever controls AI doesn't just"
+      },
+      {
+        "timestamp": "11:58",
+        "start_time": 718.48,
+        "duration": 5.28,
+        "text": "control software. They're controlling"
+      },
+      {
+        "timestamp": "12:00",
+        "start_time": 720.48,
+        "duration": 5.84,
+        "text": "manufacturing, logistics, defense,"
+      },
+      {
+        "timestamp": "12:03",
+        "start_time": 723.76,
+        "duration": 4.639,
+        "text": "medicine, energy, agriculture."
+      },
+      {
+        "timestamp": "12:06",
+        "start_time": 726.32,
+        "duration": 4.8,
+        "text": "Everything that happens in the physical"
+      },
+      {
+        "timestamp": "12:08",
+        "start_time": 728.399,
+        "duration": 4.481,
+        "text": "world will be affected by AI. Do you"
+      },
+      {
+        "timestamp": "12:11",
+        "start_time": 731.12,
+        "duration": 4.48,
+        "text": "remember that competition we talked"
+      },
+      {
+        "timestamp": "12:12",
+        "start_time": 732.88,
+        "duration": 5.28,
+        "text": "about earlier? China has more industrial"
+      },
+      {
+        "timestamp": "12:15",
+        "start_time": 735.6,
+        "duration": 5.679,
+        "text": "robots than the rest of the world"
+      },
+      {
+        "timestamp": "12:18",
+        "start_time": 738.16,
+        "duration": 6.4,
+        "text": "combined. They are not just building"
+      },
+      {
+        "timestamp": "12:21",
+        "start_time": 741.279,
+        "duration": 5.36,
+        "text": "better AI models. They are building AI"
+      },
+      {
+        "timestamp": "12:24",
+        "start_time": 744.56,
+        "duration": 5.36,
+        "text": "powered infrastructure. It's predicted"
+      },
+      {
+        "timestamp": "12:26",
+        "start_time": 746.639,
+        "duration": 5.681,
+        "text": "in the next 5 years we will have robot"
+      },
+      {
+        "timestamp": "12:29",
+        "start_time": 749.92,
+        "duration": 4.56,
+        "text": "factories that are building more robots."
+      },
+      {
+        "timestamp": "12:32",
+        "start_time": 752.32,
+        "duration": 5.04,
+        "text": "That means robots are building more"
+      },
+      {
+        "timestamp": "12:34",
+        "start_time": 754.48,
+        "duration": 5.76,
+        "text": "robots and that means an explosion of"
+      },
+      {
+        "timestamp": "12:37",
+        "start_time": 757.36,
+        "duration": 5.039,
+        "text": "humanoid AI powered devices in the"
+      },
+      {
+        "timestamp": "12:40",
+        "start_time": 760.24,
+        "duration": 5.039,
+        "text": "physical world. The transformation from"
+      },
+      {
+        "timestamp": "12:42",
+        "start_time": 762.399,
+        "duration": 5.68,
+        "text": "digital AI to physical AI is happening"
+      },
+      {
+        "timestamp": "12:45",
+        "start_time": 765.279,
+        "duration": 4.961,
+        "text": "faster than anyone predicted. So let me"
+      },
+      {
+        "timestamp": "12:48",
+        "start_time": 768.079,
+        "duration": 5.521,
+        "text": "come back to that question I started"
+      },
+      {
+        "timestamp": "12:50",
+        "start_time": 770.24,
+        "duration": 5.36,
+        "text": "with. Why is this AI different from VR"
+      },
+      {
+        "timestamp": "12:53",
+        "start_time": 773.6,
+        "duration": 4.0,
+        "text": "or crypto or the metaverse? because"
+      },
+      {
+        "timestamp": "12:55",
+        "start_time": 775.6,
+        "duration": 4.64,
+        "text": "those were additions to our existing"
+      },
+      {
+        "timestamp": "12:57",
+        "start_time": 777.6,
+        "duration": 5.2,
+        "text": "world. AI is a replacement. Everything"
+      },
+      {
+        "timestamp": "13:00",
+        "start_time": 780.24,
+        "duration": 5.279,
+        "text": "we talked about, the 800 million users"
+      },
+      {
+        "timestamp": "13:02",
+        "start_time": 782.8,
+        "duration": 4.0,
+        "text": "of chat GPT, the 200 plus billion"
+      },
+      {
+        "timestamp": "13:05",
+        "start_time": 785.519,
+        "duration": 3.601,
+        "text": "dollars in infrastructure, the"
+      },
+      {
+        "timestamp": "13:06",
+        "start_time": 786.8,
+        "duration": 4.8,
+        "text": "geopolitical competition, the enterprise"
+      },
+      {
+        "timestamp": "13:09",
+        "start_time": 789.12,
+        "duration": 5.279,
+        "text": "adoption, the physical world"
+      },
+      {
+        "timestamp": "13:11",
+        "start_time": 791.6,
+        "duration": 5.44,
+        "text": "integration. It's all happening at the"
+      },
+      {
+        "timestamp": "13:14",
+        "start_time": 794.399,
+        "duration": 4.88,
+        "text": "same time. And it's happening at a speed"
+      },
+      {
+        "timestamp": "13:17",
+        "start_time": 797.04,
+        "duration": 5.039,
+        "text": "that's never seen before. This actually"
+      },
+      {
+        "timestamp": "13:19",
+        "start_time": 799.279,
+        "duration": 5.441,
+        "text": "isn't about technology. It's about time."
+      },
+      {
+        "timestamp": "13:22",
+        "start_time": 802.079,
+        "duration": 4.88,
+        "text": "the window for adapting to this change"
+      },
+      {
+        "timestamp": "13:24",
+        "start_time": 804.72,
+        "duration": 5.28,
+        "text": "for understanding it for positioning"
+      },
+      {
+        "timestamp": "13:26",
+        "start_time": 806.959,
+        "duration": 5.841,
+        "text": "yourself or your company or your country"
+      },
+      {
+        "timestamp": "13:30",
+        "start_time": 810.0,
+        "duration": 5.68,
+        "text": "that window used to be measured in years"
+      },
+      {
+        "timestamp": "13:32",
+        "start_time": 812.8,
+        "duration": 6.479,
+        "text": "I think now it's months or even days in"
+      },
+      {
+        "timestamp": "13:35",
+        "start_time": 815.68,
+        "duration": 6.0,
+        "text": "1995 Mary Miker saw how the entire"
+      },
+      {
+        "timestamp": "13:39",
+        "start_time": 819.279,
+        "duration": 4.081,
+        "text": "internet would reshape everything some"
+      },
+      {
+        "timestamp": "13:41",
+        "start_time": 821.68,
+        "duration": 4.64,
+        "text": "people listened and then they built"
+      },
+      {
+        "timestamp": "13:43",
+        "start_time": 823.36,
+        "duration": 6.08,
+        "text": "Amazon Google Facebook others waited and"
+      },
+      {
+        "timestamp": "13:46",
+        "start_time": 826.32,
+        "duration": 5.84,
+        "text": "watched in 2025 she's saying that AI"
+      },
+      {
+        "timestamp": "13:49",
+        "start_time": 829.44,
+        "duration": 6.16,
+        "text": "will reshape everything again but"
+      },
+      {
+        "timestamp": "13:52",
+        "start_time": 832.16,
+        "duration": 6.16,
+        "text": "faster. The question is how fast are you"
+      },
+      {
+        "timestamp": "13:55",
+        "start_time": 835.6,
+        "duration": 4.96,
+        "text": "ready to adopt AI? The full bond capital"
+      },
+      {
+        "timestamp": "13:58",
+        "start_time": 838.32,
+        "duration": 4.319,
+        "text": "report will be linked below. Read it,"
+      },
+      {
+        "timestamp": "14:00",
+        "start_time": 840.56,
+        "duration": 4.48,
+        "text": "study it because the next 12 months in"
+      },
+      {
+        "timestamp": "14:02",
+        "start_time": 842.639,
+        "duration": 4.961,
+        "text": "AI are going to feel like the next"
+      },
+      {
+        "timestamp": "14:05",
+        "start_time": 845.04,
+        "duration": 4.479,
+        "text": "decade. If this breakdown helped you see"
+      },
+      {
+        "timestamp": "14:07",
+        "start_time": 847.6,
+        "duration": 3.919,
+        "text": "the bigger picture, hit subscribe"
+      },
+      {
+        "timestamp": "14:09",
+        "start_time": 849.519,
+        "duration": 4.961,
+        "text": "because the future is happening whether"
+      },
+      {
+        "timestamp": "14:11",
+        "start_time": 851.519,
+        "duration": 2.961,
+        "text": "we ready or"
+      }
+    ],
+    "language_codes": [
+      "en"
+    ],
+    "total_segments": 331,
+    "total_duration": 854.48
+  },
+  "analysis": {
+    "main_summary": "This video analyzes the rapid growth and transformative potential of AI, arguing that it surpasses previous tech hype cycles like VR, crypto, and the metaverse in its speed, scope, and impact. The video’s central thesis is that AI is not just another technological trend, but the fastest transformation of human civilization, happening right now.\n\nThe video supports this claim with several key arguments:\n\n**1. Unprecedented Adoption Speed:** The video highlights how quickly AI, specifically ChatGPT, has reached 100 million users, far outpacing previous technologies like the telephone, television, Netflix, Facebook, and Instagram. ChatGPT achieved this milestone in just 60 days, demonstrating an exponential increase in adoption speed compared to previous innovations. This rapid adoption is attributed to the immediate availability of data, powerful computing resources, and widespread smartphone access.\n\n**2. Existing Infrastructure:** Unlike previous technologies that required the creation of supporting infrastructure (roads for cars, data networks for streaming), AI leverages existing digital infrastructure and vast amounts of data already available online. This pre-existing foundation has accelerated its development and deployment.\n\n**3. Widespread Integration and Investment:** The video cites Mary Meeker's report and highlights the massive investments being made in AI infrastructure by major tech companies. In the last year, the biggest tech companies spent $212 billion on infrastructure. This level of investment, coupled with the growing number of developers building with AI, indicates a shift towards AI-first products and the disruption of various industries. The video further elaborates on the building of massive AI infrastructure and data centers, necessitating nuclear power and highlighting that the country that wins the AI war will come down to infrastructure.\n\n**4. Open-Source AI and Geopolitical Competition:** The video discusses the emergence of open-source AI models, like Deepseek and Llama, which are challenging the dominance of closed, American-controlled systems like OpenAI's ChatGPT. The rise of Deepseek, a Chinese open-source model, is presented as a game-changer due to its comparable performance at a significantly lower cost. This fuels geopolitical competition, with countries vying for AI leadership, which is equated to geopolitical leadership.\n\n**5. Quiet Enterprise Adoption:** While AI may not feel ubiquitous to the average user, the video emphasizes that major companies are quietly integrating it into their operations. Examples like Bank of America's AI assistant, Erica, and the numerous AI use cases within JP Morgan demonstrate that AI is already being deployed at scale.\n\n**6. Transition to the Physical World:** The video argues that AI is not limited to the digital realm and is rapidly expanding into the physical world. It mentions the increasing number of FDA-approved AI-enabled medical devices, the growth of autonomous vehicles like Waymo and Tesla, and the development of AI-powered defense systems. The rise of Chinese industrial robots signifies that whoever controls AI also controls manufacturing, logistics, defense, medicine, energy, and agriculture. The video points to the automation in factories and the imminent creation of more robots by robots.\n\nIn conclusion, the video stresses that AI represents a fundamental shift, not just another incremental technological advancement. It’s happening quickly, reshaping industries, economies, and geopolitics. The rapid pace of change necessitates immediate action, urging viewers to adapt, understand, and position themselves or their companies for the future. The video encourages viewers to read the Bond Capital report, emphasizing that the coming months will be pivotal in the AI landscape.\n",
+    "key_takeaways": [
+      "**AI Adoption is Exponentially Faster:** AI adoption is happening significantly faster than previous technologies like the internet, social media, and streaming services. Expect rapid and widespread integration.",
+      "**Perfect Storm for AI Growth:** Abundance of data, powerful computing capabilities, and easy user access via smartphones have created an ideal environment for AI's rapid expansion.",
+      "**AI is Disrupting Every Industry:** Be prepared for AI-first products to disrupt every industry vertical. No sector will be untouched.",
+      "**Massive Infrastructure Buildout:** The demand for AI is driving massive investments in infrastructure, including data centers and advanced chips, rivaling the GDP of some countries.",
+      "**Geopolitical Power Play:** AI leadership equates to geopolitical leadership. The race to control AI is a global competition for power and influence.",
+      "**AI is Becoming the Norm in Enterprises:** AI isn't just experimental; major companies are quietly integrating it into core operations, indicating a shift from potential to practical application.",
+      "**Shift from Digital to Physical AI:** AI is rapidly moving beyond software and into the physical world through applications in medicine, autonomous vehicles, robotics, and even defense.",
+      "**Infrastructure Control Matters:** Countries are treating AI infrastructure with the same importance as traditional infrastructure like highways and power grids.",
+      "**Open-Source AI is a Game Changer:** The rise of open-source AI models, particularly from China, is democratizing access and challenging the dominance of closed, proprietary systems.",
+      "**Time is of the Essence:** The window for adapting to and understanding AI is rapidly closing. Act now to position yourself, your company, or your country for success."
+    ],
+    "important_quotes": [
+      "We're watching the fastest transformation of the human civilization and it's happening right now.",
+      "This AI phenomenon does not feel like VR or crypto or the metaverse. This is different.",
+      "AI leadership will determine geopolitical leadership, not the other way around.",
+      "AI is a replacement.",
+      "The next 12 months in AI are going to feel like the next decade."
+    ],
+    "action_items": [
+      "**Read** the full Bond Capital report linked in the video description to gain a deeper understanding of the current AI landscape.",
+      "**Identify** AI use cases within your own company or industry to explore potential applications and improvements.",
+      "**Research** open-source AI models like Deepseek and Llama to understand their capabilities and potential cost savings compared to proprietary models.",
+      "**Evaluate** your personal or company's data privacy and security needs when considering open-source AI solutions, especially those originating from countries with different data protection regulations.",
+      "**Explore** the Kodas community (link in description) to network with other leaders and operators across different industries for knowledge sharing and access to resources.",
+      "**Consider** upskilling or reskilling in AI-related fields to prepare for the increasing integration of AI in various industries.",
+      "**Analyze** the electricity consumption trends of AI infrastructure and research potential solutions like nuclear power for sustainable AI growth."
+    ],
+    "topics": [
+      "Here's a breakdown of the main topics, themes, and subjects discussed in the transcript",
+      "Artificial Intelligence (AI)",
+      "Technology Adoption Rate",
+      "Infrastructure Investment",
+      "Open Source vs. Closed Systems",
+      "Geopolitical Competition",
+      "Enterprise Integration",
+      "Physical World Applications",
+      "Data and Compute Resources",
+      "Future Predictions",
+      "Transformation",
+      "Mary Meeker's Report"
+    ],
+    "sentiment_analysis": {
+      "positive": 0.0,
+      "neutral": 0.0,
+      "negative": 0.0,
+      "overall_score": 0.0
+    },
+    "sentiment_score": 0.0,
+    "timeline": [
+      {
+        "timestamp": "Timeline",
+        "description": "**"
+      },
+      {
+        "timestamp": "Analysis of Content Flow",
+        "description": "**"
+      },
+      {
+        "timestamp": "Major Topic Transitions",
+        "description": "**"
+      },
+      {
+        "timestamp": "Key Events or Milestones Mentioned",
+        "description": "**"
+      },
+      {
+        "timestamp": "Important Segments or Chapters",
+        "description": "**"
+      },
+      {
+        "timestamp": "Significant Moments or Turning Points",
+        "description": "**"
+      }
+    ],
+    "questions_and_answers": [
+      {
+        "question": "Why is the current AI phenomenon different from previous tech hype cycles like VR or crypto?",
+        "answer": "Unlike VR, crypto, or the metaverse which were additions to our existing world, AI is a replacement. The rapid user adoption, massive infrastructure investments, geopolitical competition, enterprise adoption, and physical world integration are all happening simultaneously and at an unprecedented speed."
+      },
+      {
+        "question": "What three elements were crucial for AI's rapid growth and adoption?",
+        "answer": "AI needed data, compute, and easy access to users. It obtained data from the internet, benefited from advancements in computing power, and became instantly accessible to a large user base due to widespread smartphone usage and data access."
+      },
+      {
+        "question": "How are companies using AI, even though it might not feel like it's everywhere yet?",
+        "answer": "Major companies are quietly integrating AI into their operations. For example, Bank of America's AI assistant \"Erica\" handles billions of customer interactions. JP Morgan has 200+ AI use cases. Many S&P 500 companies mention AI in their earnings calls, meaning AI is moving from experimental to productive."
+      },
+      {
+        "question": "How is the competition over AI leadership impacting global infrastructure development?",
+        "answer": "Countries are investing heavily in AI infrastructure, like data centers and AI specific hardware. AI leadership will determine geopolitical leadership. China, in particular, is rapidly expanding its AI capabilities and infrastructure and is moving to AI powered infrastucture."
+      }
+    ]
+  },
+  "settings": {
+    "summary_type": "Comprehensive",
+    "language": "English",
+    "include_timestamps": true,
+    "include_sentiment": true,
+    "include_topics": true
+  },
+  "timestamp": "2025-07-09T14:45:02.852252",
+  "session_id": "f2f48fa9222693a5",
+  "created_at": "2025-07-09T14:45:02.852252",
+  "last_accessed": "2025-07-09T14:45:02.852252"
+}

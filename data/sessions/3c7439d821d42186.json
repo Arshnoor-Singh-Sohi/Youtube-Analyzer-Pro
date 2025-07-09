@@ -1,0 +1,2345 @@
+{
+  "url": "https://youtu.be/390byiVu-LU?si=1PC9o-e81l_mlTsT",
+  "video_info": {
+    "video_id": "390byiVu-LU",
+    "url": "https://youtu.be/390byiVu-LU?si=1PC9o-e81l_mlTsT",
+    "thumbnail": "https://img.youtube.com/vi/390byiVu-LU/maxresdefault.jpg",
+    "title": "Video 390byiVu-LU",
+    "duration": "Unknown",
+    "channel": "Unknown Channel",
+    "views": 0,
+    "description": "Description not available",
+    "published_date": null
+  },
+  "transcript": {
+    "text": "And then came the concept of MCP and MCP servers. So what is MCP? MCP stands for model contest protocol. It's an open standard that allows AI tools to securely connect to external platforms and resources. You can really think about it as API for LLMs for AI clients. And MCP uh it came up from the company behind Claude uh Antrophy. uh but then uh quickly afterwards like you know other companies other leading companies uh uh like the idea and are going to support it. Here you can see like a post from uh Sam Alman the the CEO of OpenAI and Chip PT that they're going to add support to it. It's already supported in cursor and others. So uh great. So we have like this protocol and Duda we uh jumped on the opportunity um to introduce that and now I'm going to introduce the Duda MCP server which is really putting the power of AI to work for your business directly from cloud cursor and beyond. So uh Duda's MCP server makes it possible for AI tools to take real action on the Duda platform. So you can work smarter, you can save time, you can differentiate your offering and stay in control because you can do so much directly from uh uh AI clients and maybe I'll just going to show you how it works. So first of all starting also today uh I talked before about Christmas coming early. So another thing is that if you go today to your account settings page on Duda and you are on agency plan and app you will see at the bottom of the page a section that is called model context protocol and here you will see like the URL uh of the do the MCP server you take this URL you copy it and then you install it on the uh tool that you want to use with um if it's cloud if it's cursor uh soon I think it will be also available in JGPT and you can start working on it. Now I did it already and I want to show you how how it works. So let me open my cloud. This is cloud. Uh for those of you who are not familiar, it's very similar to CHP um um AI chat that can do a lot of stuff. What I did before I installed the Duda MCP and one you can see that here if I'll go here and show you like the different tools. There is a tool called Duda. This is the Duda MCP and we have like 60 different tools or capabilities that Duda is basically providing together with this MCP that allows you to do so many things on your Duda platform. So let me start to show you like few of the stuff that we can do. So let's say first now for uh the first part of this demo that I work on an agency and I'm responsible for SEO, content creation, e-commerce store management uh for our clients. So I can start asking things. So I can start with uh a question like uh uh show me uh the last do the sides I created. So now uh claude will uh try to answer this question and it will use the Duda MCP. It will decide which tool from Duda to use. You see it chose to use the list sites tool. Now it's getting uh information from Duda and can respond. So these are the most recent sites that I have. Um you can see all those sites and for this demo we want to work on the pet store uh demo site which is a a pet store sites that I created before from a do the template. Nothing special about it. So now uh let's say that I want to now manage uh content and the blog for this website and and have a new blog post uh uh published for the pet store demo. So I can ask clot something like um uh does site has a blog and it will check if uh we have already a blog up and running on this website. It's checking it's checking list blog posts to to see if like uh there is a blog available and it's saying yes uh the site has a blog and these are the current posts that we have top tips for traveling with your dog care on a budget great now let's say that I want now to research which blog posts uh I should write so uh based on the current uh post and uh trends for uh dog owners suggest few uh blog post ideas. So now this is not related to do that. I'm just like now using like the power of AI tool uh for that. Uh so it's uh searching the web and uh and let's see which type of uh ideas it can suggest to me. Okay, based on current trends on your existing blog post, uh here are a few trends. Mental health and enrichment, DIY dog enrichment activities, uh is your dog anxious, 10 uh coming enrichment activities that actually work and so on. And I can just choose. So, let me uh just copy this idea. And now I can say create a blog post. uh publish it and give me the URL. The topic should be make the post short but engaging and use few images in the post. All right. So now it's going to create the blog post for me. So just think about it you as kind of like agency owners if you are offering content services and SEO services how how much more easily it can be for you to provide those services using such a tool. So you can uh really automate the entire thing and of course you can provide more information and more uh how to make it like you know to rank higher which keywords which topics to cover and so on. And you don't need to to work hard uh to do that. It can really like do it for you. You can see it's now calling the create blog post tool from Duda. It's generating like the content and great the blog post has been created. Let me publish it. Now it's publishing the pro the post for me. Can really understand what does it mean aentic AI in this context. And perfect. Uh it did it. Here is the URL. Um we can check the URL. Uh let's see. So I can uh take the URL and go to my browser over here and see what it did. Oops. Something is wrong with URL. Okay, it's a demo. Oh, he added a blog here that is not needed. You was wrong with the URL. Let's try like that. Okay, great. Is your dog anxious? And he's creating like, you know, a blog post for me that I can later on kind of like continue and edit. So, that's great. So, we saw how I like to create like, you know, blog post. Now, let's say that I want to uh manage my store here and make sure that like my prices are correct. So let's say uh I can ask uh show me the products uh of my site. So we have a great uh integration with do the native e-commerce here. Uh and you can see that it's now listing like the store products. So it will show me all the different products that I have uh on my uh pet store website. And here I got like you know u these are the the products that we have. We have slip categories with those products, work category, play category, uh, and product summary. Now, let's say that we want to put like the play category, uh, items on sale. So, I can ask, uh, can you put the play category uh, products on sale? Uh, give them 25% discount. Okay. So now it will go uh product by product inside the play category and just uh change the prices uh for them and uh think about it like I could do now things I'm not doing it now in the demo but I could do things like research what's the best prices uh compared to competitors uh I can add more products I can optimize like you know product descriptions so I can do really like lots of stuff there you see it's doing it it's updating like the the the the price for for the products that we have Um so um we we'll give it some time to uh to run and then let's see if like uh if we did a good job. So um so these are all the products in our play category. Uh updating each of them one by one. Uh it can work while it's working you can do something else of course perfectly successfully put like you know all the product on sale. Uh it's giving me like the all the information in a really really nice way and uh yeah it's done. So if I'll go uh to my site and go to the store this is like the play category I should be able to see that each product is now discounted by exactly 25%. Which is really cool making like you know managing uh store um much easier and I can do all of that. Great. So now uh let's go here and start like a new chat. And this time now I'm not anymore like the SEO and content specialist. Now let's say that I'm running the site and and I want to see like you know uh statistics and sales data. So I have a site actually it's my friend site called speed of sound that is selling um speakers and microphones and headphones. Uh it's pretty successful selling quite a lot. And now I want to know for example uh how much money I did. So I can ask uh something like uh for my do the site speed of sound c uh how much money I made yesterday. So now uh what uh uh cloud will do it will use our tool to get orders uh store orders. So first he's getting like the site details to find out like you know what's the information behind speed of speed of sound he found it now it's listing like the store orders to get like you know orders information and will try to give me an answer and think about that you can do it for store orders you can do it for site stats visits you can do it for site activities you can do it for form responses so any type of data and analytics data that dud is providing you can do it using our MCP server and here I got a really great result uh that like my friend made like 3,000 uh uh checkers yesterday and these are the orders that he got and I can ask like for more reports and so on. So I can really take it more and more. So now let's do uh another demo. I'll start a new chat and now what I want to show you is now I'm not anymore like the site owner. Now I'm an operations manager in an agency. So operations manager that needs to like take care of like you know the operation of like getting orders of new clients, creating sites for them, getting them like you know the permission to access the site and edit and so on. So now I want to show you the power of connecting several MCP servers together. I showed you before that I added Duda MCP server but I also added Jira. So for those of you who don't know Jira, Jira is like a Monday or like a sana. It's a project management tool and here is my Jira and I'm managing in my agency I'm managing clients uh through Jira and you can see here I have a board and I have like two tasks that are uh to do in to-do status. So the first one is create a plumber website for um uh this client. It's a new client that we got. And the second task is uh create a photographer website for this client. So and now what we want typically is to uh create those webs to find the right templates create a website for the clients assign them uh aside getting them a welcome URL updating the Jira board all of this work that like I'm sure that some of you are doing on a daily basis. So now let's see how MCP is helping us. So now I'm just going to copy uh the instructions that I have like that I prepared before and I'll let it run and while it is running I'll explain you what's what I'm asking. So I'm asking Claude to go over the items in my Jira project that is called the mir's customers and for each item I want to decide which duda template is most suitable based on the vertical to create a duda site based on the template to create a client based on the customer email to assign the client to the site to create a welcome URL to add a comment with the site alias and welcome URL to the client and to set the task to done in Jira. So all of that, imagine what does it mean to do all of that today? It's either like you're working manually and this is a lot of work uh for just a single one or you need to like have developers building on top of APIs um expensive project and it's also like anytime that you want to make a change you need like to ask the developer to spend more time. So now I can just like you know write it in plain English and let like you know the MCP run. So and it's doing it. Look what it's doing. It's like kind of like u uh looking at the Jira project. He found uh the tasks. He's checking list templates of Duda to see which template is best. He's going to create a photographer website. Creating a site for it. Creating the client account. Granting site access. Creating welcome URL. Now it's adding comment to Jira. Um and then marking the task as done in Jira. Doing all of that for me. And uh once it will finish like the first site, it will just move. Yeah. And now it's moving like to the next one to the plumber website. So now I'm just like showing here like two, but imagine that you have I don't know 50 of those. It can just like do it for you and run for you in the background. And while it's doing like the second site, let me go back to my Jira and just refresh it. And we can see that the first task is already done. And if I'll open it, I can see that like it added the comment that the site created successfully. This is the site alias. This is the welcome URL that now I can send to the client to go and edit the website. This is the template that you decide to use and this is like the client account. And indeed if I'll go like to this site alias and I'll go to my uh uh do the dashboard and search for it. So I can see here that like you know indeed uh a site was created uh for a photography that I can now I don't know move to design or to the next step and um uh and it's all working great for me and now we also like you know uh finish like you know the second the second site and it was all automated. So um going back to the presentation um really with the do the MCP server it allows you to empower every wall uh with AI. So it's great for operation teams like I showed you. It's great for support reps who needs to get like you know information and send them like you know to the client. It's great for marketers and content teams that can create pages and blog posts and uh and business updating content library and business information. It's great for site owners who wants to uh uh get analytics and so on. So everyone can enjoy it and it's available today uh for all of you from agency plan and up. Um uh and you can all uh use it uh",
+    "segments": [
+      {
+        "timestamp": "00:00",
+        "start_time": 0.4,
+        "duration": 8.56,
+        "text": "And then came the concept of MCP and MCP"
+      },
+      {
+        "timestamp": "00:04",
+        "start_time": 4.88,
+        "duration": 6.639,
+        "text": "servers. So what is MCP? MCP stands for"
+      },
+      {
+        "timestamp": "00:08",
+        "start_time": 8.96,
+        "duration": 4.24,
+        "text": "model contest protocol. It's an open"
+      },
+      {
+        "timestamp": "00:11",
+        "start_time": 11.519,
+        "duration": 3.761,
+        "text": "standard that allows AI tools to"
+      },
+      {
+        "timestamp": "00:13",
+        "start_time": 13.2,
+        "duration": 4.48,
+        "text": "securely connect to external platforms"
+      },
+      {
+        "timestamp": "00:15",
+        "start_time": 15.28,
+        "duration": 7.839,
+        "text": "and resources. You can really think"
+      },
+      {
+        "timestamp": "00:17",
+        "start_time": 17.68,
+        "duration": 8.08,
+        "text": "about it as API for LLMs for AI clients."
+      },
+      {
+        "timestamp": "00:23",
+        "start_time": 23.119,
+        "duration": 7.041,
+        "text": "And MCP uh it came up from the company"
+      },
+      {
+        "timestamp": "00:25",
+        "start_time": 25.76,
+        "duration": 6.08,
+        "text": "behind Claude uh Antrophy. uh but then"
+      },
+      {
+        "timestamp": "00:30",
+        "start_time": 30.16,
+        "duration": 3.84,
+        "text": "uh quickly afterwards like you know"
+      },
+      {
+        "timestamp": "00:31",
+        "start_time": 31.84,
+        "duration": 4.239,
+        "text": "other companies other leading companies"
+      },
+      {
+        "timestamp": "00:34",
+        "start_time": 34.0,
+        "duration": 3.68,
+        "text": "uh uh like the idea and are going to"
+      },
+      {
+        "timestamp": "00:36",
+        "start_time": 36.079,
+        "duration": 4.881,
+        "text": "support it. Here you can see like a post"
+      },
+      {
+        "timestamp": "00:37",
+        "start_time": 37.68,
+        "duration": 5.12,
+        "text": "from uh Sam Alman the the CEO of OpenAI"
+      },
+      {
+        "timestamp": "00:40",
+        "start_time": 40.96,
+        "duration": 3.84,
+        "text": "and Chip PT that they're going to add"
+      },
+      {
+        "timestamp": "00:42",
+        "start_time": 42.8,
+        "duration": 5.52,
+        "text": "support to it. It's already supported in"
+      },
+      {
+        "timestamp": "00:44",
+        "start_time": 44.8,
+        "duration": 6.239,
+        "text": "cursor and others. So uh great. So we"
+      },
+      {
+        "timestamp": "00:48",
+        "start_time": 48.32,
+        "duration": 5.36,
+        "text": "have like this protocol and Duda we uh"
+      },
+      {
+        "timestamp": "00:51",
+        "start_time": 51.039,
+        "duration": 4.081,
+        "text": "jumped on the opportunity um to"
+      },
+      {
+        "timestamp": "00:53",
+        "start_time": 53.68,
+        "duration": 3.76,
+        "text": "introduce that and now I'm going to"
+      },
+      {
+        "timestamp": "00:55",
+        "start_time": 55.12,
+        "duration": 4.4,
+        "text": "introduce the Duda MCP server which is"
+      },
+      {
+        "timestamp": "00:57",
+        "start_time": 57.44,
+        "duration": 5.04,
+        "text": "really putting the power of AI to work"
+      },
+      {
+        "timestamp": "00:59",
+        "start_time": 59.52,
+        "duration": 5.679,
+        "text": "for your business directly from cloud"
+      },
+      {
+        "timestamp": "01:02",
+        "start_time": 62.48,
+        "duration": 5.44,
+        "text": "cursor and beyond."
+      },
+      {
+        "timestamp": "01:05",
+        "start_time": 65.199,
+        "duration": 4.801,
+        "text": "So uh Duda's MCP server makes it"
+      },
+      {
+        "timestamp": "01:07",
+        "start_time": 67.92,
+        "duration": 5.28,
+        "text": "possible for AI tools to take real"
+      },
+      {
+        "timestamp": "01:10",
+        "start_time": 70.0,
+        "duration": 6.0,
+        "text": "action on the Duda platform. So you can"
+      },
+      {
+        "timestamp": "01:13",
+        "start_time": 73.2,
+        "duration": 5.04,
+        "text": "work smarter, you can save time, you can"
+      },
+      {
+        "timestamp": "01:16",
+        "start_time": 76.0,
+        "duration": 3.92,
+        "text": "differentiate your offering and stay in"
+      },
+      {
+        "timestamp": "01:18",
+        "start_time": 78.24,
+        "duration": 6.8,
+        "text": "control because you can do so much"
+      },
+      {
+        "timestamp": "01:19",
+        "start_time": 79.92,
+        "duration": 6.72,
+        "text": "directly from uh uh AI clients and maybe"
+      },
+      {
+        "timestamp": "01:25",
+        "start_time": 85.04,
+        "duration": 4.24,
+        "text": "I'll just going to show you how it"
+      },
+      {
+        "timestamp": "01:26",
+        "start_time": 86.64,
+        "duration": 5.6,
+        "text": "works. So first of all starting also"
+      },
+      {
+        "timestamp": "01:29",
+        "start_time": 89.28,
+        "duration": 5.199,
+        "text": "today uh I talked before about Christmas"
+      },
+      {
+        "timestamp": "01:32",
+        "start_time": 92.24,
+        "duration": 5.04,
+        "text": "coming early. So another thing is that"
+      },
+      {
+        "timestamp": "01:34",
+        "start_time": 94.479,
+        "duration": 5.441,
+        "text": "if you go today to your account settings"
+      },
+      {
+        "timestamp": "01:37",
+        "start_time": 97.28,
+        "duration": 4.64,
+        "text": "page on Duda and you are on agency plan"
+      },
+      {
+        "timestamp": "01:39",
+        "start_time": 99.92,
+        "duration": 4.48,
+        "text": "and app you will see at the bottom of"
+      },
+      {
+        "timestamp": "01:41",
+        "start_time": 101.92,
+        "duration": 4.96,
+        "text": "the page a section that is called model"
+      },
+      {
+        "timestamp": "01:44",
+        "start_time": 104.4,
+        "duration": 5.999,
+        "text": "context protocol and here you will see"
+      },
+      {
+        "timestamp": "01:46",
+        "start_time": 106.88,
+        "duration": 5.76,
+        "text": "like the URL uh of the do the MCP server"
+      },
+      {
+        "timestamp": "01:50",
+        "start_time": 110.399,
+        "duration": 4.641,
+        "text": "you take this URL you copy it and then"
+      },
+      {
+        "timestamp": "01:52",
+        "start_time": 112.64,
+        "duration": 5.6,
+        "text": "you install it on the uh tool that you"
+      },
+      {
+        "timestamp": "01:55",
+        "start_time": 115.04,
+        "duration": 5.92,
+        "text": "want to use with um if it's cloud if"
+      },
+      {
+        "timestamp": "01:58",
+        "start_time": 118.24,
+        "duration": 5.36,
+        "text": "it's cursor uh soon I think it will be"
+      },
+      {
+        "timestamp": "02:00",
+        "start_time": 120.96,
+        "duration": 5.439,
+        "text": "also available in JGPT and you can start"
+      },
+      {
+        "timestamp": "02:03",
+        "start_time": 123.6,
+        "duration": 5.2,
+        "text": "working on it. Now I did it already and"
+      },
+      {
+        "timestamp": "02:06",
+        "start_time": 126.399,
+        "duration": 5.121,
+        "text": "I want to show you how how it works. So"
+      },
+      {
+        "timestamp": "02:08",
+        "start_time": 128.8,
+        "duration": 4.72,
+        "text": "let me open my cloud."
+      },
+      {
+        "timestamp": "02:11",
+        "start_time": 131.52,
+        "duration": 3.6,
+        "text": "This is cloud. Uh for those of you who"
+      },
+      {
+        "timestamp": "02:13",
+        "start_time": 133.52,
+        "duration": 3.12,
+        "text": "are not familiar, it's very similar to"
+      },
+      {
+        "timestamp": "02:15",
+        "start_time": 135.12,
+        "duration": 3.92,
+        "text": "CHP"
+      },
+      {
+        "timestamp": "02:16",
+        "start_time": 136.64,
+        "duration": 5.04,
+        "text": "um um AI chat that can do a lot of"
+      },
+      {
+        "timestamp": "02:19",
+        "start_time": 139.04,
+        "duration": 5.6,
+        "text": "stuff. What I did before I installed the"
+      },
+      {
+        "timestamp": "02:21",
+        "start_time": 141.68,
+        "duration": 5.44,
+        "text": "Duda MCP and one you can see that here"
+      },
+      {
+        "timestamp": "02:24",
+        "start_time": 144.64,
+        "duration": 4.239,
+        "text": "if I'll go here and show you like the"
+      },
+      {
+        "timestamp": "02:27",
+        "start_time": 147.12,
+        "duration": 4.8,
+        "text": "different tools. There is a tool called"
+      },
+      {
+        "timestamp": "02:28",
+        "start_time": 148.879,
+        "duration": 6.401,
+        "text": "Duda. This is the Duda MCP and we have"
+      },
+      {
+        "timestamp": "02:31",
+        "start_time": 151.92,
+        "duration": 5.039,
+        "text": "like 60 different tools or capabilities"
+      },
+      {
+        "timestamp": "02:35",
+        "start_time": 155.28,
+        "duration": 3.84,
+        "text": "that Duda is basically providing"
+      },
+      {
+        "timestamp": "02:36",
+        "start_time": 156.959,
+        "duration": 4.241,
+        "text": "together with this MCP that allows you"
+      },
+      {
+        "timestamp": "02:39",
+        "start_time": 159.12,
+        "duration": 4.56,
+        "text": "to do so many things on your Duda"
+      },
+      {
+        "timestamp": "02:41",
+        "start_time": 161.2,
+        "duration": 4.48,
+        "text": "platform. So let me start to show you"
+      },
+      {
+        "timestamp": "02:43",
+        "start_time": 163.68,
+        "duration": 4.08,
+        "text": "like few of the stuff that we can do. So"
+      },
+      {
+        "timestamp": "02:45",
+        "start_time": 165.68,
+        "duration": 4.24,
+        "text": "let's say first now for uh the first"
+      },
+      {
+        "timestamp": "02:47",
+        "start_time": 167.76,
+        "duration": 5.04,
+        "text": "part of this demo that I work on an"
+      },
+      {
+        "timestamp": "02:49",
+        "start_time": 169.92,
+        "duration": 5.599,
+        "text": "agency and I'm responsible for SEO,"
+      },
+      {
+        "timestamp": "02:52",
+        "start_time": 172.8,
+        "duration": 5.76,
+        "text": "content creation, e-commerce store"
+      },
+      {
+        "timestamp": "02:55",
+        "start_time": 175.519,
+        "duration": 5.36,
+        "text": "management uh for our clients. So I can"
+      },
+      {
+        "timestamp": "02:58",
+        "start_time": 178.56,
+        "duration": 8.319,
+        "text": "start asking things. So I can start with"
+      },
+      {
+        "timestamp": "03:00",
+        "start_time": 180.879,
+        "duration": 11.881,
+        "text": "uh a question like uh uh show me uh the"
+      },
+      {
+        "timestamp": "03:06",
+        "start_time": 186.879,
+        "duration": 5.881,
+        "text": "last do the sides I created."
+      },
+      {
+        "timestamp": "03:13",
+        "start_time": 193.599,
+        "duration": 5.761,
+        "text": "So now uh claude"
+      },
+      {
+        "timestamp": "03:16",
+        "start_time": 196.319,
+        "duration": 5.92,
+        "text": "will uh try to answer this question and"
+      },
+      {
+        "timestamp": "03:19",
+        "start_time": 199.36,
+        "duration": 5.12,
+        "text": "it will use the Duda MCP. It will decide"
+      },
+      {
+        "timestamp": "03:22",
+        "start_time": 202.239,
+        "duration": 5.041,
+        "text": "which tool from Duda to use. You see it"
+      },
+      {
+        "timestamp": "03:24",
+        "start_time": 204.48,
+        "duration": 5.119,
+        "text": "chose to use the list sites tool. Now"
+      },
+      {
+        "timestamp": "03:27",
+        "start_time": 207.28,
+        "duration": 4.56,
+        "text": "it's getting uh information from Duda"
+      },
+      {
+        "timestamp": "03:29",
+        "start_time": 209.599,
+        "duration": 5.28,
+        "text": "and can respond. So these are the most"
+      },
+      {
+        "timestamp": "03:31",
+        "start_time": 211.84,
+        "duration": 5.679,
+        "text": "recent sites that I have. Um you can see"
+      },
+      {
+        "timestamp": "03:34",
+        "start_time": 214.879,
+        "duration": 5.36,
+        "text": "all those sites and for this demo we"
+      },
+      {
+        "timestamp": "03:37",
+        "start_time": 217.519,
+        "duration": 5.44,
+        "text": "want to work on the pet store uh demo"
+      },
+      {
+        "timestamp": "03:40",
+        "start_time": 220.239,
+        "duration": 5.201,
+        "text": "site which is a a pet store sites that I"
+      },
+      {
+        "timestamp": "03:42",
+        "start_time": 222.959,
+        "duration": 5.041,
+        "text": "created before from a do the template."
+      },
+      {
+        "timestamp": "03:45",
+        "start_time": 225.44,
+        "duration": 4.719,
+        "text": "Nothing special about it. So now uh"
+      },
+      {
+        "timestamp": "03:48",
+        "start_time": 228.0,
+        "duration": 4.4,
+        "text": "let's say that I want to now manage uh"
+      },
+      {
+        "timestamp": "03:50",
+        "start_time": 230.159,
+        "duration": 5.521,
+        "text": "content and the blog for this website"
+      },
+      {
+        "timestamp": "03:52",
+        "start_time": 232.4,
+        "duration": 5.52,
+        "text": "and and have a new blog post uh uh"
+      },
+      {
+        "timestamp": "03:55",
+        "start_time": 235.68,
+        "duration": 6.16,
+        "text": "published for the pet store demo. So I"
+      },
+      {
+        "timestamp": "03:57",
+        "start_time": 237.92,
+        "duration": 5.44,
+        "text": "can ask clot something like um uh does"
+      },
+      {
+        "timestamp": "04:01",
+        "start_time": 241.84,
+        "duration": 3.92,
+        "text": "site"
+      },
+      {
+        "timestamp": "04:03",
+        "start_time": 243.36,
+        "duration": 4.56,
+        "text": "has a blog"
+      },
+      {
+        "timestamp": "04:05",
+        "start_time": 245.76,
+        "duration": 5.679,
+        "text": "and it will check if uh we have already"
+      },
+      {
+        "timestamp": "04:07",
+        "start_time": 247.92,
+        "duration": 5.599,
+        "text": "a blog up and running on this website."
+      },
+      {
+        "timestamp": "04:11",
+        "start_time": 251.439,
+        "duration": 4.401,
+        "text": "It's checking it's checking list blog"
+      },
+      {
+        "timestamp": "04:13",
+        "start_time": 253.519,
+        "duration": 6.4,
+        "text": "posts to to see if like uh there is a"
+      },
+      {
+        "timestamp": "04:15",
+        "start_time": 255.84,
+        "duration": 6.079,
+        "text": "blog available and it's saying yes"
+      },
+      {
+        "timestamp": "04:19",
+        "start_time": 259.919,
+        "duration": 4.481,
+        "text": "uh the site has a blog and these are the"
+      },
+      {
+        "timestamp": "04:21",
+        "start_time": 261.919,
+        "duration": 5.921,
+        "text": "current posts that we have top tips for"
+      },
+      {
+        "timestamp": "04:24",
+        "start_time": 264.4,
+        "duration": 6.239,
+        "text": "traveling with your dog care on a budget"
+      },
+      {
+        "timestamp": "04:27",
+        "start_time": 267.84,
+        "duration": 4.88,
+        "text": "great now let's say that I want now to"
+      },
+      {
+        "timestamp": "04:30",
+        "start_time": 270.639,
+        "duration": 7.921,
+        "text": "research which blog posts uh I should"
+      },
+      {
+        "timestamp": "04:32",
+        "start_time": 272.72,
+        "duration": 8.479,
+        "text": "write so uh based on the current uh post"
+      },
+      {
+        "timestamp": "04:38",
+        "start_time": 278.56,
+        "duration": 6.32,
+        "text": "and uh trends"
+      },
+      {
+        "timestamp": "04:41",
+        "start_time": 281.199,
+        "duration": 9.841,
+        "text": "for uh dog owners"
+      },
+      {
+        "timestamp": "04:44",
+        "start_time": 284.88,
+        "duration": 7.759,
+        "text": "suggest few uh blog post ideas. So now"
+      },
+      {
+        "timestamp": "04:51",
+        "start_time": 291.04,
+        "duration": 4.879,
+        "text": "this is not related to do that. I'm just"
+      },
+      {
+        "timestamp": "04:52",
+        "start_time": 292.639,
+        "duration": 6.0,
+        "text": "like now using like the power of AI tool"
+      },
+      {
+        "timestamp": "04:55",
+        "start_time": 295.919,
+        "duration": 5.601,
+        "text": "uh for that. Uh so it's uh searching the"
+      },
+      {
+        "timestamp": "04:58",
+        "start_time": 298.639,
+        "duration": 7.56,
+        "text": "web and uh and let's see which type of"
+      },
+      {
+        "timestamp": "05:01",
+        "start_time": 301.52,
+        "duration": 4.679,
+        "text": "uh ideas it can suggest to me."
+      },
+      {
+        "timestamp": "05:06",
+        "start_time": 306.639,
+        "duration": 5.041,
+        "text": "Okay, based on current trends on your"
+      },
+      {
+        "timestamp": "05:08",
+        "start_time": 308.8,
+        "duration": 6.32,
+        "text": "existing blog post, uh here are a few"
+      },
+      {
+        "timestamp": "05:11",
+        "start_time": 311.68,
+        "duration": 6.56,
+        "text": "trends. Mental health and enrichment,"
+      },
+      {
+        "timestamp": "05:15",
+        "start_time": 315.12,
+        "duration": 6.0,
+        "text": "DIY dog enrichment activities,"
+      },
+      {
+        "timestamp": "05:18",
+        "start_time": 318.24,
+        "duration": 4.959,
+        "text": "uh is your dog anxious, 10 uh coming"
+      },
+      {
+        "timestamp": "05:21",
+        "start_time": 321.12,
+        "duration": 3.919,
+        "text": "enrichment activities that actually work"
+      },
+      {
+        "timestamp": "05:23",
+        "start_time": 323.199,
+        "duration": 7.201,
+        "text": "and so on. And I can just choose. So,"
+      },
+      {
+        "timestamp": "05:25",
+        "start_time": 325.039,
+        "duration": 10.16,
+        "text": "let me uh just copy this idea. And now I"
+      },
+      {
+        "timestamp": "05:30",
+        "start_time": 330.4,
+        "duration": 7.359,
+        "text": "can say create a blog post."
+      },
+      {
+        "timestamp": "05:35",
+        "start_time": 335.199,
+        "duration": 10.121,
+        "text": "uh publish it"
+      },
+      {
+        "timestamp": "05:37",
+        "start_time": 337.759,
+        "duration": 7.561,
+        "text": "and give me the URL. The topic should be"
+      },
+      {
+        "timestamp": "05:47",
+        "start_time": 347.28,
+        "duration": 11.359,
+        "text": "make the post short but engaging and use"
+      },
+      {
+        "timestamp": "05:53",
+        "start_time": 353.84,
+        "duration": 6.56,
+        "text": "few images in the post. All right. So"
+      },
+      {
+        "timestamp": "05:58",
+        "start_time": 358.639,
+        "duration": 3.921,
+        "text": "now it's going to create the blog post"
+      },
+      {
+        "timestamp": "06:00",
+        "start_time": 360.4,
+        "duration": 3.84,
+        "text": "for me. So just think about it you as"
+      },
+      {
+        "timestamp": "06:02",
+        "start_time": 362.56,
+        "duration": 3.68,
+        "text": "kind of like agency owners if you are"
+      },
+      {
+        "timestamp": "06:04",
+        "start_time": 364.24,
+        "duration": 4.72,
+        "text": "offering content services and SEO"
+      },
+      {
+        "timestamp": "06:06",
+        "start_time": 366.24,
+        "duration": 4.64,
+        "text": "services how how much more easily it can"
+      },
+      {
+        "timestamp": "06:08",
+        "start_time": 368.96,
+        "duration": 4.32,
+        "text": "be for you to provide those services"
+      },
+      {
+        "timestamp": "06:10",
+        "start_time": 370.88,
+        "duration": 4.159,
+        "text": "using such a tool. So you can uh really"
+      },
+      {
+        "timestamp": "06:13",
+        "start_time": 373.28,
+        "duration": 3.84,
+        "text": "automate the entire thing and of course"
+      },
+      {
+        "timestamp": "06:15",
+        "start_time": 375.039,
+        "duration": 4.401,
+        "text": "you can provide more information and"
+      },
+      {
+        "timestamp": "06:17",
+        "start_time": 377.12,
+        "duration": 4.24,
+        "text": "more uh how to make it like you know to"
+      },
+      {
+        "timestamp": "06:19",
+        "start_time": 379.44,
+        "duration": 4.24,
+        "text": "rank higher which keywords which topics"
+      },
+      {
+        "timestamp": "06:21",
+        "start_time": 381.36,
+        "duration": 4.64,
+        "text": "to cover and so on. And you don't need"
+      },
+      {
+        "timestamp": "06:23",
+        "start_time": 383.68,
+        "duration": 3.92,
+        "text": "to to work hard uh to do that. It can"
+      },
+      {
+        "timestamp": "06:26",
+        "start_time": 386.0,
+        "duration": 3.36,
+        "text": "really like do it for you. You can see"
+      },
+      {
+        "timestamp": "06:27",
+        "start_time": 387.6,
+        "duration": 4.0,
+        "text": "it's now calling the create blog post"
+      },
+      {
+        "timestamp": "06:29",
+        "start_time": 389.36,
+        "duration": 4.48,
+        "text": "tool from Duda. It's generating like the"
+      },
+      {
+        "timestamp": "06:31",
+        "start_time": 391.6,
+        "duration": 4.56,
+        "text": "content and great the blog post has been"
+      },
+      {
+        "timestamp": "06:33",
+        "start_time": 393.84,
+        "duration": 4.4,
+        "text": "created. Let me publish it. Now it's"
+      },
+      {
+        "timestamp": "06:36",
+        "start_time": 396.16,
+        "duration": 3.36,
+        "text": "publishing the pro the post for me. Can"
+      },
+      {
+        "timestamp": "06:38",
+        "start_time": 398.24,
+        "duration": 4.239,
+        "text": "really understand what does it mean"
+      },
+      {
+        "timestamp": "06:39",
+        "start_time": 399.52,
+        "duration": 6.239,
+        "text": "aentic AI in this context."
+      },
+      {
+        "timestamp": "06:42",
+        "start_time": 402.479,
+        "duration": 7.041,
+        "text": "And perfect. Uh it did it. Here is the"
+      },
+      {
+        "timestamp": "06:45",
+        "start_time": 405.759,
+        "duration": 8.081,
+        "text": "URL. Um we can check the URL. Uh let's"
+      },
+      {
+        "timestamp": "06:49",
+        "start_time": 409.52,
+        "duration": 8.0,
+        "text": "see. So I can uh take the URL and go to"
+      },
+      {
+        "timestamp": "06:53",
+        "start_time": 413.84,
+        "duration": 5.199,
+        "text": "my browser over here and see what it"
+      },
+      {
+        "timestamp": "06:57",
+        "start_time": 417.52,
+        "duration": 3.76,
+        "text": "did."
+      },
+      {
+        "timestamp": "06:59",
+        "start_time": 419.039,
+        "duration": 4.321,
+        "text": "Oops. Something is wrong with URL. Okay,"
+      },
+      {
+        "timestamp": "07:01",
+        "start_time": 421.28,
+        "duration": 4.72,
+        "text": "it's a demo. Oh, he added a blog here"
+      },
+      {
+        "timestamp": "07:03",
+        "start_time": 423.36,
+        "duration": 5.52,
+        "text": "that is not needed. You was wrong with"
+      },
+      {
+        "timestamp": "07:06",
+        "start_time": 426.0,
+        "duration": 5.919,
+        "text": "the URL. Let's try like that. Okay,"
+      },
+      {
+        "timestamp": "07:08",
+        "start_time": 428.88,
+        "duration": 4.48,
+        "text": "great. Is your dog anxious? And he's"
+      },
+      {
+        "timestamp": "07:11",
+        "start_time": 431.919,
+        "duration": 3.28,
+        "text": "creating like, you know, a blog post for"
+      },
+      {
+        "timestamp": "07:13",
+        "start_time": 433.36,
+        "duration": 4.0,
+        "text": "me that I can later on kind of like"
+      },
+      {
+        "timestamp": "07:15",
+        "start_time": 435.199,
+        "duration": 3.601,
+        "text": "continue and edit. So, that's great. So,"
+      },
+      {
+        "timestamp": "07:17",
+        "start_time": 437.36,
+        "duration": 3.44,
+        "text": "we saw how I like to create like, you"
+      },
+      {
+        "timestamp": "07:18",
+        "start_time": 438.8,
+        "duration": 5.119,
+        "text": "know, blog post. Now, let's say that I"
+      },
+      {
+        "timestamp": "07:20",
+        "start_time": 440.8,
+        "duration": 5.519,
+        "text": "want to uh manage my store here and make"
+      },
+      {
+        "timestamp": "07:23",
+        "start_time": 443.919,
+        "duration": 7.361,
+        "text": "sure that like my prices are correct. So"
+      },
+      {
+        "timestamp": "07:26",
+        "start_time": 446.319,
+        "duration": 8.481,
+        "text": "let's say uh I can ask uh show me the"
+      },
+      {
+        "timestamp": "07:31",
+        "start_time": 451.28,
+        "duration": 5.68,
+        "text": "products uh of my site."
+      },
+      {
+        "timestamp": "07:34",
+        "start_time": 454.8,
+        "duration": 5.2,
+        "text": "So we have a great uh integration with"
+      },
+      {
+        "timestamp": "07:36",
+        "start_time": 456.96,
+        "duration": 4.88,
+        "text": "do the native e-commerce here. Uh and"
+      },
+      {
+        "timestamp": "07:40",
+        "start_time": 460.0,
+        "duration": 4.16,
+        "text": "you can see that it's now listing like"
+      },
+      {
+        "timestamp": "07:41",
+        "start_time": 461.84,
+        "duration": 4.24,
+        "text": "the store products. So it will show me"
+      },
+      {
+        "timestamp": "07:44",
+        "start_time": 464.16,
+        "duration": 6.159,
+        "text": "all the different products that I have"
+      },
+      {
+        "timestamp": "07:46",
+        "start_time": 466.08,
+        "duration": 6.559,
+        "text": "uh on my uh pet store website."
+      },
+      {
+        "timestamp": "07:50",
+        "start_time": 470.319,
+        "duration": 4.32,
+        "text": "And here I got like you know u these are"
+      },
+      {
+        "timestamp": "07:52",
+        "start_time": 472.639,
+        "duration": 4.081,
+        "text": "the the products that we have. We have"
+      },
+      {
+        "timestamp": "07:54",
+        "start_time": 474.639,
+        "duration": 5.361,
+        "text": "slip categories with those products,"
+      },
+      {
+        "timestamp": "07:56",
+        "start_time": 476.72,
+        "duration": 5.28,
+        "text": "work category, play category, uh, and"
+      },
+      {
+        "timestamp": "08:00",
+        "start_time": 480.0,
+        "duration": 4.16,
+        "text": "product summary. Now, let's say that we"
+      },
+      {
+        "timestamp": "08:02",
+        "start_time": 482.0,
+        "duration": 5.52,
+        "text": "want to put like the play category, uh,"
+      },
+      {
+        "timestamp": "08:04",
+        "start_time": 484.16,
+        "duration": 8.879,
+        "text": "items on sale. So, I can ask, uh, can"
+      },
+      {
+        "timestamp": "08:07",
+        "start_time": 487.52,
+        "duration": 11.119,
+        "text": "you put the play category uh, products"
+      },
+      {
+        "timestamp": "08:13",
+        "start_time": 493.039,
+        "duration": 8.081,
+        "text": "on sale? Uh, give them 25%"
+      },
+      {
+        "timestamp": "08:18",
+        "start_time": 498.639,
+        "duration": 5.521,
+        "text": "discount."
+      },
+      {
+        "timestamp": "08:21",
+        "start_time": 501.12,
+        "duration": 5.04,
+        "text": "Okay. So now it will go uh product by"
+      },
+      {
+        "timestamp": "08:24",
+        "start_time": 504.16,
+        "duration": 4.8,
+        "text": "product inside the play category and"
+      },
+      {
+        "timestamp": "08:26",
+        "start_time": 506.16,
+        "duration": 4.96,
+        "text": "just uh change the prices uh for them"
+      },
+      {
+        "timestamp": "08:28",
+        "start_time": 508.96,
+        "duration": 3.92,
+        "text": "and uh think about it like I could do"
+      },
+      {
+        "timestamp": "08:31",
+        "start_time": 511.12,
+        "duration": 3.919,
+        "text": "now things I'm not doing it now in the"
+      },
+      {
+        "timestamp": "08:32",
+        "start_time": 512.88,
+        "duration": 4.639,
+        "text": "demo but I could do things like research"
+      },
+      {
+        "timestamp": "08:35",
+        "start_time": 515.039,
+        "duration": 5.68,
+        "text": "what's the best prices uh compared to"
+      },
+      {
+        "timestamp": "08:37",
+        "start_time": 517.519,
+        "duration": 4.4,
+        "text": "competitors uh I can add more products I"
+      },
+      {
+        "timestamp": "08:40",
+        "start_time": 520.719,
+        "duration": 3.041,
+        "text": "can optimize like you know product"
+      },
+      {
+        "timestamp": "08:41",
+        "start_time": 521.919,
+        "duration": 3.441,
+        "text": "descriptions so I can do really like"
+      },
+      {
+        "timestamp": "08:43",
+        "start_time": 523.76,
+        "duration": 4.16,
+        "text": "lots of stuff there you see it's doing"
+      },
+      {
+        "timestamp": "08:45",
+        "start_time": 525.36,
+        "duration": 5.52,
+        "text": "it it's updating like the the the the"
+      },
+      {
+        "timestamp": "08:47",
+        "start_time": 527.92,
+        "duration": 7.44,
+        "text": "price for for the products that we have"
+      },
+      {
+        "timestamp": "08:50",
+        "start_time": 530.88,
+        "duration": 6.48,
+        "text": "Um so um we we'll give it some time to"
+      },
+      {
+        "timestamp": "08:55",
+        "start_time": 535.36,
+        "duration": 3.68,
+        "text": "uh to run"
+      },
+      {
+        "timestamp": "08:57",
+        "start_time": 537.36,
+        "duration": 6.159,
+        "text": "and then let's see if like uh if we did"
+      },
+      {
+        "timestamp": "08:59",
+        "start_time": 539.04,
+        "duration": 6.88,
+        "text": "a good job. So um so these are all the"
+      },
+      {
+        "timestamp": "09:03",
+        "start_time": 543.519,
+        "duration": 5.76,
+        "text": "products in our play category. Uh"
+      },
+      {
+        "timestamp": "09:05",
+        "start_time": 545.92,
+        "duration": 5.039,
+        "text": "updating each of them one by one. Uh it"
+      },
+      {
+        "timestamp": "09:09",
+        "start_time": 549.279,
+        "duration": 4.081,
+        "text": "can work while it's working you can do"
+      },
+      {
+        "timestamp": "09:10",
+        "start_time": 550.959,
+        "duration": 4.081,
+        "text": "something else of course perfectly"
+      },
+      {
+        "timestamp": "09:13",
+        "start_time": 553.36,
+        "duration": 4.159,
+        "text": "successfully put like you know all the"
+      },
+      {
+        "timestamp": "09:15",
+        "start_time": 555.04,
+        "duration": 4.56,
+        "text": "product on sale. Uh it's giving me like"
+      },
+      {
+        "timestamp": "09:17",
+        "start_time": 557.519,
+        "duration": 5.76,
+        "text": "the all the information in a really"
+      },
+      {
+        "timestamp": "09:19",
+        "start_time": 559.6,
+        "duration": 6.88,
+        "text": "really nice way and uh yeah it's done."
+      },
+      {
+        "timestamp": "09:23",
+        "start_time": 563.279,
+        "duration": 5.761,
+        "text": "So if I'll go uh to my site and go to"
+      },
+      {
+        "timestamp": "09:26",
+        "start_time": 566.48,
+        "duration": 4.16,
+        "text": "the store this is like the play category"
+      },
+      {
+        "timestamp": "09:29",
+        "start_time": 569.04,
+        "duration": 4.239,
+        "text": "I should be able to see that each"
+      },
+      {
+        "timestamp": "09:30",
+        "start_time": 570.64,
+        "duration": 5.36,
+        "text": "product is now discounted by exactly"
+      },
+      {
+        "timestamp": "09:33",
+        "start_time": 573.279,
+        "duration": 5.601,
+        "text": "25%. Which is really cool making like"
+      },
+      {
+        "timestamp": "09:36",
+        "start_time": 576.0,
+        "duration": 5.68,
+        "text": "you know managing uh store um much"
+      },
+      {
+        "timestamp": "09:38",
+        "start_time": 578.88,
+        "duration": 5.519,
+        "text": "easier and I can do all of that. Great."
+      },
+      {
+        "timestamp": "09:41",
+        "start_time": 581.68,
+        "duration": 5.279,
+        "text": "So now uh let's go here and start like a"
+      },
+      {
+        "timestamp": "09:44",
+        "start_time": 584.399,
+        "duration": 4.481,
+        "text": "new chat. And this time now I'm not"
+      },
+      {
+        "timestamp": "09:46",
+        "start_time": 586.959,
+        "duration": 3.44,
+        "text": "anymore like the SEO and content"
+      },
+      {
+        "timestamp": "09:48",
+        "start_time": 588.88,
+        "duration": 3.36,
+        "text": "specialist. Now let's say that I'm"
+      },
+      {
+        "timestamp": "09:50",
+        "start_time": 590.399,
+        "duration": 4.081,
+        "text": "running the site and and I want to see"
+      },
+      {
+        "timestamp": "09:52",
+        "start_time": 592.24,
+        "duration": 5.36,
+        "text": "like you know uh statistics and sales"
+      },
+      {
+        "timestamp": "09:54",
+        "start_time": 594.48,
+        "duration": 5.2,
+        "text": "data. So I have a site actually it's my"
+      },
+      {
+        "timestamp": "09:57",
+        "start_time": 597.6,
+        "duration": 5.359,
+        "text": "friend site called speed of sound that"
+      },
+      {
+        "timestamp": "09:59",
+        "start_time": 599.68,
+        "duration": 4.96,
+        "text": "is selling um speakers and microphones"
+      },
+      {
+        "timestamp": "10:02",
+        "start_time": 602.959,
+        "duration": 4.241,
+        "text": "and headphones. Uh it's pretty"
+      },
+      {
+        "timestamp": "10:04",
+        "start_time": 604.64,
+        "duration": 5.12,
+        "text": "successful selling quite a lot. And now"
+      },
+      {
+        "timestamp": "10:07",
+        "start_time": 607.2,
+        "duration": 5.04,
+        "text": "I want to know for example uh how much"
+      },
+      {
+        "timestamp": "10:09",
+        "start_time": 609.76,
+        "duration": 8.079,
+        "text": "money I did. So I can ask uh something"
+      },
+      {
+        "timestamp": "10:12",
+        "start_time": 612.24,
+        "duration": 8.08,
+        "text": "like uh for my do the site speed of"
+      },
+      {
+        "timestamp": "10:17",
+        "start_time": 617.839,
+        "duration": 5.361,
+        "text": "sound c"
+      },
+      {
+        "timestamp": "10:20",
+        "start_time": 620.32,
+        "duration": 7.28,
+        "text": "uh how much"
+      },
+      {
+        "timestamp": "10:23",
+        "start_time": 623.2,
+        "duration": 6.16,
+        "text": "money I"
+      },
+      {
+        "timestamp": "10:27",
+        "start_time": 627.6,
+        "duration": 5.12,
+        "text": "made yesterday."
+      },
+      {
+        "timestamp": "10:29",
+        "start_time": 629.36,
+        "duration": 6.64,
+        "text": "So now uh what uh uh cloud will do it"
+      },
+      {
+        "timestamp": "10:32",
+        "start_time": 632.72,
+        "duration": 5.04,
+        "text": "will use our tool to get orders uh store"
+      },
+      {
+        "timestamp": "10:36",
+        "start_time": 636.0,
+        "duration": 3.68,
+        "text": "orders. So first he's getting like the"
+      },
+      {
+        "timestamp": "10:37",
+        "start_time": 637.76,
+        "duration": 4.16,
+        "text": "site details to find out like you know"
+      },
+      {
+        "timestamp": "10:39",
+        "start_time": 639.68,
+        "duration": 4.96,
+        "text": "what's the information behind speed of"
+      },
+      {
+        "timestamp": "10:41",
+        "start_time": 641.92,
+        "duration": 4.4,
+        "text": "speed of sound he found it now it's"
+      },
+      {
+        "timestamp": "10:44",
+        "start_time": 644.64,
+        "duration": 4.16,
+        "text": "listing like the store orders to get"
+      },
+      {
+        "timestamp": "10:46",
+        "start_time": 646.32,
+        "duration": 4.56,
+        "text": "like you know orders information and"
+      },
+      {
+        "timestamp": "10:48",
+        "start_time": 648.8,
+        "duration": 3.52,
+        "text": "will try to give me an answer and think"
+      },
+      {
+        "timestamp": "10:50",
+        "start_time": 650.88,
+        "duration": 3.92,
+        "text": "about that you can do it for store"
+      },
+      {
+        "timestamp": "10:52",
+        "start_time": 652.32,
+        "duration": 4.959,
+        "text": "orders you can do it for site stats"
+      },
+      {
+        "timestamp": "10:54",
+        "start_time": 654.8,
+        "duration": 5.039,
+        "text": "visits you can do it for site activities"
+      },
+      {
+        "timestamp": "10:57",
+        "start_time": 657.279,
+        "duration": 4.641,
+        "text": "you can do it for form responses so any"
+      },
+      {
+        "timestamp": "10:59",
+        "start_time": 659.839,
+        "duration": 4.961,
+        "text": "type of data and analytics data that dud"
+      },
+      {
+        "timestamp": "11:01",
+        "start_time": 661.92,
+        "duration": 4.8,
+        "text": "is providing you can do it using our MCP"
+      },
+      {
+        "timestamp": "11:04",
+        "start_time": 664.8,
+        "duration": 5.12,
+        "text": "server and here I got a really great"
+      },
+      {
+        "timestamp": "11:06",
+        "start_time": 666.72,
+        "duration": 6.72,
+        "text": "result uh that like my friend made like"
+      },
+      {
+        "timestamp": "11:09",
+        "start_time": 669.92,
+        "duration": 5.44,
+        "text": "3,000 uh uh checkers yesterday and these"
+      },
+      {
+        "timestamp": "11:13",
+        "start_time": 673.44,
+        "duration": 4.079,
+        "text": "are the orders that he got and I can ask"
+      },
+      {
+        "timestamp": "11:15",
+        "start_time": 675.36,
+        "duration": 4.56,
+        "text": "like for more reports and so on. So I"
+      },
+      {
+        "timestamp": "11:17",
+        "start_time": 677.519,
+        "duration": 4.801,
+        "text": "can really take it more and more. So now"
+      },
+      {
+        "timestamp": "11:19",
+        "start_time": 679.92,
+        "duration": 4.64,
+        "text": "let's do uh another demo. I'll start a"
+      },
+      {
+        "timestamp": "11:22",
+        "start_time": 682.32,
+        "duration": 4.32,
+        "text": "new chat and now what I want to show you"
+      },
+      {
+        "timestamp": "11:24",
+        "start_time": 684.56,
+        "duration": 4.64,
+        "text": "is now I'm not anymore like the site"
+      },
+      {
+        "timestamp": "11:26",
+        "start_time": 686.64,
+        "duration": 5.36,
+        "text": "owner. Now I'm an operations manager in"
+      },
+      {
+        "timestamp": "11:29",
+        "start_time": 689.2,
+        "duration": 4.319,
+        "text": "an agency. So operations manager that"
+      },
+      {
+        "timestamp": "11:32",
+        "start_time": 692.0,
+        "duration": 3.839,
+        "text": "needs to like take care of like you know"
+      },
+      {
+        "timestamp": "11:33",
+        "start_time": 693.519,
+        "duration": 4.721,
+        "text": "the operation of like getting orders of"
+      },
+      {
+        "timestamp": "11:35",
+        "start_time": 695.839,
+        "duration": 3.68,
+        "text": "new clients, creating sites for them,"
+      },
+      {
+        "timestamp": "11:38",
+        "start_time": 698.24,
+        "duration": 3.039,
+        "text": "getting them like you know the"
+      },
+      {
+        "timestamp": "11:39",
+        "start_time": 699.519,
+        "duration": 4.0,
+        "text": "permission to access the site and edit"
+      },
+      {
+        "timestamp": "11:41",
+        "start_time": 701.279,
+        "duration": 5.841,
+        "text": "and so on. So now I want to show you the"
+      },
+      {
+        "timestamp": "11:43",
+        "start_time": 703.519,
+        "duration": 6.721,
+        "text": "power of connecting several MCP servers"
+      },
+      {
+        "timestamp": "11:47",
+        "start_time": 707.12,
+        "duration": 6.159,
+        "text": "together. I showed you before that I"
+      },
+      {
+        "timestamp": "11:50",
+        "start_time": 710.24,
+        "duration": 5.039,
+        "text": "added Duda MCP server but I also added"
+      },
+      {
+        "timestamp": "11:53",
+        "start_time": 713.279,
+        "duration": 4.321,
+        "text": "Jira. So for those of you who don't know"
+      },
+      {
+        "timestamp": "11:55",
+        "start_time": 715.279,
+        "duration": 4.8,
+        "text": "Jira, Jira is like a Monday or like a"
+      },
+      {
+        "timestamp": "11:57",
+        "start_time": 717.6,
+        "duration": 5.919,
+        "text": "sana. It's a project management tool and"
+      },
+      {
+        "timestamp": "12:00",
+        "start_time": 720.079,
+        "duration": 5.601,
+        "text": "here is my Jira and I'm managing in my"
+      },
+      {
+        "timestamp": "12:03",
+        "start_time": 723.519,
+        "duration": 4.401,
+        "text": "agency I'm managing clients uh through"
+      },
+      {
+        "timestamp": "12:05",
+        "start_time": 725.68,
+        "duration": 6.08,
+        "text": "Jira and you can see here I have a board"
+      },
+      {
+        "timestamp": "12:07",
+        "start_time": 727.92,
+        "duration": 7.52,
+        "text": "and I have like two tasks that are uh to"
+      },
+      {
+        "timestamp": "12:11",
+        "start_time": 731.76,
+        "duration": 7.12,
+        "text": "do in to-do status. So the first one is"
+      },
+      {
+        "timestamp": "12:15",
+        "start_time": 735.44,
+        "duration": 5.92,
+        "text": "create a plumber website for um uh this"
+      },
+      {
+        "timestamp": "12:18",
+        "start_time": 738.88,
+        "duration": 4.959,
+        "text": "client. It's a new client that we got."
+      },
+      {
+        "timestamp": "12:21",
+        "start_time": 741.36,
+        "duration": 5.2,
+        "text": "And the second task is uh create a"
+      },
+      {
+        "timestamp": "12:23",
+        "start_time": 743.839,
+        "duration": 6.081,
+        "text": "photographer website for this client. So"
+      },
+      {
+        "timestamp": "12:26",
+        "start_time": 746.56,
+        "duration": 5.12,
+        "text": "and now what we want typically is to uh"
+      },
+      {
+        "timestamp": "12:29",
+        "start_time": 749.92,
+        "duration": 3.2,
+        "text": "create those webs to find the right"
+      },
+      {
+        "timestamp": "12:31",
+        "start_time": 751.68,
+        "duration": 4.48,
+        "text": "templates create a website for the"
+      },
+      {
+        "timestamp": "12:33",
+        "start_time": 753.12,
+        "duration": 5.2,
+        "text": "clients assign them uh aside getting"
+      },
+      {
+        "timestamp": "12:36",
+        "start_time": 756.16,
+        "duration": 4.32,
+        "text": "them a welcome URL updating the Jira"
+      },
+      {
+        "timestamp": "12:38",
+        "start_time": 758.32,
+        "duration": 3.759,
+        "text": "board all of this work that like I'm"
+      },
+      {
+        "timestamp": "12:40",
+        "start_time": 760.48,
+        "duration": 4.24,
+        "text": "sure that some of you are doing on a"
+      },
+      {
+        "timestamp": "12:42",
+        "start_time": 762.079,
+        "duration": 5.521,
+        "text": "daily basis. So now let's see how MCP is"
+      },
+      {
+        "timestamp": "12:44",
+        "start_time": 764.72,
+        "duration": 5.44,
+        "text": "helping us. So now I'm just going to"
+      },
+      {
+        "timestamp": "12:47",
+        "start_time": 767.6,
+        "duration": 5.359,
+        "text": "copy uh the instructions that I have"
+      },
+      {
+        "timestamp": "12:50",
+        "start_time": 770.16,
+        "duration": 5.04,
+        "text": "like that I prepared before and I'll let"
+      },
+      {
+        "timestamp": "12:52",
+        "start_time": 772.959,
+        "duration": 4.32,
+        "text": "it run and while it is running I'll"
+      },
+      {
+        "timestamp": "12:55",
+        "start_time": 775.2,
+        "duration": 4.24,
+        "text": "explain you what's what I'm asking. So"
+      },
+      {
+        "timestamp": "12:57",
+        "start_time": 777.279,
+        "duration": 4.321,
+        "text": "I'm asking Claude to go over the items"
+      },
+      {
+        "timestamp": "12:59",
+        "start_time": 779.44,
+        "duration": 4.0,
+        "text": "in my Jira project that is called the"
+      },
+      {
+        "timestamp": "13:01",
+        "start_time": 781.6,
+        "duration": 4.72,
+        "text": "mir's customers"
+      },
+      {
+        "timestamp": "13:03",
+        "start_time": 783.44,
+        "duration": 4.959,
+        "text": "and for each item I want to decide which"
+      },
+      {
+        "timestamp": "13:06",
+        "start_time": 786.32,
+        "duration": 4.56,
+        "text": "duda template is most suitable based on"
+      },
+      {
+        "timestamp": "13:08",
+        "start_time": 788.399,
+        "duration": 4.801,
+        "text": "the vertical to create a duda site based"
+      },
+      {
+        "timestamp": "13:10",
+        "start_time": 790.88,
+        "duration": 4.32,
+        "text": "on the template to create a client based"
+      },
+      {
+        "timestamp": "13:13",
+        "start_time": 793.2,
+        "duration": 4.079,
+        "text": "on the customer email to assign the"
+      },
+      {
+        "timestamp": "13:15",
+        "start_time": 795.2,
+        "duration": 4.48,
+        "text": "client to the site to create a welcome"
+      },
+      {
+        "timestamp": "13:17",
+        "start_time": 797.279,
+        "duration": 4.641,
+        "text": "URL to add a comment with the site alias"
+      },
+      {
+        "timestamp": "13:19",
+        "start_time": 799.68,
+        "duration": 4.64,
+        "text": "and welcome URL to the client and to set"
+      },
+      {
+        "timestamp": "13:21",
+        "start_time": 801.92,
+        "duration": 4.159,
+        "text": "the task to done in Jira. So all of"
+      },
+      {
+        "timestamp": "13:24",
+        "start_time": 804.32,
+        "duration": 3.04,
+        "text": "that, imagine what does it mean to do"
+      },
+      {
+        "timestamp": "13:26",
+        "start_time": 806.079,
+        "duration": 3.281,
+        "text": "all of that today? It's either like"
+      },
+      {
+        "timestamp": "13:27",
+        "start_time": 807.36,
+        "duration": 4.88,
+        "text": "you're working manually and this is a"
+      },
+      {
+        "timestamp": "13:29",
+        "start_time": 809.36,
+        "duration": 4.479,
+        "text": "lot of work uh for just a single one or"
+      },
+      {
+        "timestamp": "13:32",
+        "start_time": 812.24,
+        "duration": 4.399,
+        "text": "you need to like have developers"
+      },
+      {
+        "timestamp": "13:33",
+        "start_time": 813.839,
+        "duration": 4.641,
+        "text": "building on top of APIs um expensive"
+      },
+      {
+        "timestamp": "13:36",
+        "start_time": 816.639,
+        "duration": 3.121,
+        "text": "project and it's also like anytime that"
+      },
+      {
+        "timestamp": "13:38",
+        "start_time": 818.48,
+        "duration": 3.52,
+        "text": "you want to make a change you need like"
+      },
+      {
+        "timestamp": "13:39",
+        "start_time": 819.76,
+        "duration": 3.759,
+        "text": "to ask the developer to spend more time."
+      },
+      {
+        "timestamp": "13:42",
+        "start_time": 822.0,
+        "duration": 3.36,
+        "text": "So now I can just like you know write it"
+      },
+      {
+        "timestamp": "13:43",
+        "start_time": 823.519,
+        "duration": 4.32,
+        "text": "in plain English and let like you know"
+      },
+      {
+        "timestamp": "13:45",
+        "start_time": 825.36,
+        "duration": 4.08,
+        "text": "the MCP run. So and it's doing it. Look"
+      },
+      {
+        "timestamp": "13:47",
+        "start_time": 827.839,
+        "duration": 4.8,
+        "text": "what it's doing. It's like kind of like"
+      },
+      {
+        "timestamp": "13:49",
+        "start_time": 829.44,
+        "duration": 6.56,
+        "text": "u uh looking at the Jira project. He"
+      },
+      {
+        "timestamp": "13:52",
+        "start_time": 832.639,
+        "duration": 5.2,
+        "text": "found uh the tasks. He's checking list"
+      },
+      {
+        "timestamp": "13:56",
+        "start_time": 836.0,
+        "duration": 4.48,
+        "text": "templates of Duda to see which template"
+      },
+      {
+        "timestamp": "13:57",
+        "start_time": 837.839,
+        "duration": 4.8,
+        "text": "is best. He's going to create a"
+      },
+      {
+        "timestamp": "14:00",
+        "start_time": 840.48,
+        "duration": 4.56,
+        "text": "photographer website. Creating a site"
+      },
+      {
+        "timestamp": "14:02",
+        "start_time": 842.639,
+        "duration": 5.041,
+        "text": "for it. Creating the client account."
+      },
+      {
+        "timestamp": "14:05",
+        "start_time": 845.04,
+        "duration": 6.72,
+        "text": "Granting site access. Creating welcome"
+      },
+      {
+        "timestamp": "14:07",
+        "start_time": 847.68,
+        "duration": 5.92,
+        "text": "URL. Now it's adding comment to Jira. Um"
+      },
+      {
+        "timestamp": "14:11",
+        "start_time": 851.76,
+        "duration": 3.439,
+        "text": "and then marking the task as done in"
+      },
+      {
+        "timestamp": "14:13",
+        "start_time": 853.6,
+        "duration": 4.64,
+        "text": "Jira."
+      },
+      {
+        "timestamp": "14:15",
+        "start_time": 855.199,
+        "duration": 5.121,
+        "text": "Doing all of that for me."
+      },
+      {
+        "timestamp": "14:18",
+        "start_time": 858.24,
+        "duration": 3.76,
+        "text": "And uh once it will finish like the"
+      },
+      {
+        "timestamp": "14:20",
+        "start_time": 860.32,
+        "duration": 3.04,
+        "text": "first site, it will just move. Yeah. And"
+      },
+      {
+        "timestamp": "14:22",
+        "start_time": 862.0,
+        "duration": 3.12,
+        "text": "now it's moving like to the next one to"
+      },
+      {
+        "timestamp": "14:23",
+        "start_time": 863.36,
+        "duration": 3.279,
+        "text": "the plumber website. So now I'm just"
+      },
+      {
+        "timestamp": "14:25",
+        "start_time": 865.12,
+        "duration": 3.36,
+        "text": "like showing here like two, but imagine"
+      },
+      {
+        "timestamp": "14:26",
+        "start_time": 866.639,
+        "duration": 3.601,
+        "text": "that you have I don't know 50 of those."
+      },
+      {
+        "timestamp": "14:28",
+        "start_time": 868.48,
+        "duration": 3.2,
+        "text": "It can just like do it for you and run"
+      },
+      {
+        "timestamp": "14:30",
+        "start_time": 870.24,
+        "duration": 3.44,
+        "text": "for you in the background. And while"
+      },
+      {
+        "timestamp": "14:31",
+        "start_time": 871.68,
+        "duration": 5.76,
+        "text": "it's doing like the second site, let me"
+      },
+      {
+        "timestamp": "14:33",
+        "start_time": 873.68,
+        "duration": 5.44,
+        "text": "go back to my Jira and just refresh it."
+      },
+      {
+        "timestamp": "14:37",
+        "start_time": 877.44,
+        "duration": 5.36,
+        "text": "And we can see that the first task is"
+      },
+      {
+        "timestamp": "14:39",
+        "start_time": 879.12,
+        "duration": 5.76,
+        "text": "already done. And if I'll open it, I can"
+      },
+      {
+        "timestamp": "14:42",
+        "start_time": 882.8,
+        "duration": 4.159,
+        "text": "see that like it added the comment that"
+      },
+      {
+        "timestamp": "14:44",
+        "start_time": 884.88,
+        "duration": 4.399,
+        "text": "the site created successfully. This is"
+      },
+      {
+        "timestamp": "14:46",
+        "start_time": 886.959,
+        "duration": 4.161,
+        "text": "the site alias. This is the welcome URL"
+      },
+      {
+        "timestamp": "14:49",
+        "start_time": 889.279,
+        "duration": 3.68,
+        "text": "that now I can send to the client to go"
+      },
+      {
+        "timestamp": "14:51",
+        "start_time": 891.12,
+        "duration": 3.6,
+        "text": "and edit the website. This is the"
+      },
+      {
+        "timestamp": "14:52",
+        "start_time": 892.959,
+        "duration": 3.761,
+        "text": "template that you decide to use and this"
+      },
+      {
+        "timestamp": "14:54",
+        "start_time": 894.72,
+        "duration": 4.32,
+        "text": "is like the client account. And indeed"
+      },
+      {
+        "timestamp": "14:56",
+        "start_time": 896.72,
+        "duration": 5.679,
+        "text": "if I'll go like to this site alias and"
+      },
+      {
+        "timestamp": "14:59",
+        "start_time": 899.04,
+        "duration": 5.44,
+        "text": "I'll go to my uh uh do the dashboard and"
+      },
+      {
+        "timestamp": "15:02",
+        "start_time": 902.399,
+        "duration": 4.24,
+        "text": "search for it."
+      },
+      {
+        "timestamp": "15:04",
+        "start_time": 904.48,
+        "duration": 5.52,
+        "text": "So I can see here that like you know"
+      },
+      {
+        "timestamp": "15:06",
+        "start_time": 906.639,
+        "duration": 5.681,
+        "text": "indeed uh a site was created uh for a"
+      },
+      {
+        "timestamp": "15:10",
+        "start_time": 910.0,
+        "duration": 5.12,
+        "text": "photography that I can now I don't know"
+      },
+      {
+        "timestamp": "15:12",
+        "start_time": 912.32,
+        "duration": 5.759,
+        "text": "move to design or to the next step and"
+      },
+      {
+        "timestamp": "15:15",
+        "start_time": 915.12,
+        "duration": 4.959,
+        "text": "um uh and it's all working great for me"
+      },
+      {
+        "timestamp": "15:18",
+        "start_time": 918.079,
+        "duration": 4.161,
+        "text": "and now we also like you know uh finish"
+      },
+      {
+        "timestamp": "15:20",
+        "start_time": 920.079,
+        "duration": 6.081,
+        "text": "like you know the second the second site"
+      },
+      {
+        "timestamp": "15:22",
+        "start_time": 922.24,
+        "duration": 8.12,
+        "text": "and it was all automated. So um going"
+      },
+      {
+        "timestamp": "15:26",
+        "start_time": 926.16,
+        "duration": 4.2,
+        "text": "back to the presentation"
+      },
+      {
+        "timestamp": "15:31",
+        "start_time": 931.12,
+        "duration": 6.0,
+        "text": "um really with the do the MCP server it"
+      },
+      {
+        "timestamp": "15:34",
+        "start_time": 934.48,
+        "duration": 4.799,
+        "text": "allows you to empower every wall uh with"
+      },
+      {
+        "timestamp": "15:37",
+        "start_time": 937.12,
+        "duration": 3.92,
+        "text": "AI. So it's great for operation teams"
+      },
+      {
+        "timestamp": "15:39",
+        "start_time": 939.279,
+        "duration": 3.92,
+        "text": "like I showed you. It's great for"
+      },
+      {
+        "timestamp": "15:41",
+        "start_time": 941.04,
+        "duration": 4.159,
+        "text": "support reps who needs to get like you"
+      },
+      {
+        "timestamp": "15:43",
+        "start_time": 943.199,
+        "duration": 3.601,
+        "text": "know information and send them like you"
+      },
+      {
+        "timestamp": "15:45",
+        "start_time": 945.199,
+        "duration": 3.681,
+        "text": "know to the client. It's great for"
+      },
+      {
+        "timestamp": "15:46",
+        "start_time": 946.8,
+        "duration": 5.52,
+        "text": "marketers and content teams that can"
+      },
+      {
+        "timestamp": "15:48",
+        "start_time": 948.88,
+        "duration": 5.6,
+        "text": "create pages and blog posts and uh and"
+      },
+      {
+        "timestamp": "15:52",
+        "start_time": 952.32,
+        "duration": 3.92,
+        "text": "business updating content library and"
+      },
+      {
+        "timestamp": "15:54",
+        "start_time": 954.48,
+        "duration": 4.08,
+        "text": "business information. It's great for"
+      },
+      {
+        "timestamp": "15:56",
+        "start_time": 956.24,
+        "duration": 4.08,
+        "text": "site owners who wants to uh uh get"
+      },
+      {
+        "timestamp": "15:58",
+        "start_time": 958.56,
+        "duration": 4.639,
+        "text": "analytics and so on. So everyone can"
+      },
+      {
+        "timestamp": "16:00",
+        "start_time": 960.32,
+        "duration": 6.319,
+        "text": "enjoy it and it's available today uh for"
+      },
+      {
+        "timestamp": "16:03",
+        "start_time": 963.199,
+        "duration": 7.921,
+        "text": "all of you from agency plan and up. Um"
+      },
+      {
+        "timestamp": "16:06",
+        "start_time": 966.639,
+        "duration": 4.481,
+        "text": "uh and you can all uh use it uh"
+      }
+    ],
+    "language_codes": [
+      "en"
+    ],
+    "total_segments": 373,
+    "total_duration": 971.12
+  },
+  "analysis": {
+    "main_summary": "This video introduces Duda's MCP (Model Contest Protocol) server, a tool designed to empower businesses by integrating AI capabilities directly into their Duda platform, along with other platforms, via AI clients like Claude, Cursor, and soon, ChatGPT. The MCP is essentially an API for Large Language Models (LLMs), allowing AI tools to securely connect to external platforms and resources.\n\n**Main Thesis:** Duda's MCP server allows AI tools to take real action on the Duda platform, enabling users to work smarter, save time, differentiate their offerings, and stay in control of their business processes.\n\n**Supporting Arguments and Examples:**\n\n1.  **Introduction of MCP and its Adoption:**\n    *   MCP is an open standard for AI tools to connect to external platforms.\n    *   Originated from Anthropic (the company behind Claude), but quickly gained support from other leading companies like OpenAI (ChatGPT), Cursor, and others.\n    *   The video highlights Sam Altman's (OpenAI CEO) endorsement of MCP.\n\n2.  **Duda's MCP Server Functionality:**\n    *   Provides access to Duda's platform capabilities through AI tools.\n    *   Users can access the Duda MCP server URL in their Duda account settings (agency plan and up).\n    *   The server URL can be installed on AI tools like Claude or Cursor to begin using Duda's functionalities.\n    *   Duda is providing 60 different tools or capabilities together with the MCP.\n\n3.  **Demo 1: Content and E-commerce Management for an Agency:**\n    *   The demonstrator uses Claude, an AI chat tool, integrated with the Duda MCP.\n    *   **Example 1: Listing Sites:** Asking Claude to \"show me the last Duda sites I created\" demonstrates the ability of the AI to access information directly from the Duda platform.\n    *   **Example 2: Blog Post Creation:** The demonstrator uses Claude to generate blog post ideas based on current trends and existing blog posts, create a blog post for the pet store demo site, publish it, and provide the URL. The post generated was on the topic \"Is your dog anxious? 10 calming enrichment activities that actually work.\" The demonstration showed how AI could automate SEO and content creation services.\n    *   **Example 3: E-commerce Management:** The demonstrator uses Claude to list the products in the store, specifically showing the \"play\" category, and then asks the AI to put all items in that category on sale with a 25% discount. This shows the integration with Duda's native e-commerce and the ability to manage product pricing through AI.\n\n4.  **Demo 2: Sales Data Access for a Site Owner:**\n    *   The demonstrator, acting as the site owner, asks Claude how much money was made yesterday for a Duda site called \"Speed of Sound.\"\n    *   Claude uses the Duda MCP to access store order information and provides the sales figures.\n    *   This highlights the ability to access and analyze analytics data (store orders, site stats, form responses, etc.) through the MCP.\n\n5.  **Demo 3: Operations Management for an Agency:**\n    *   The demonstrator acts as an operations manager managing clients through Jira, a project management tool.\n    *   Claude is connected to both Duda MCP and Jira.\n    *   Claude is instructed to go over the items in the Jira project and for each one decide which Duda template is most suitable, create a Duda site based on the template, create a client account, assign the client to the site, create a welcome URL, add a comment with the site alias and welcome URL to the client, and set the task to done in Jira.\n    *   This demonstrates the power of connecting multiple MCP servers (Duda and Jira) to automate complex workflows, such as creating websites for new clients and updating project management tools.\n    *   The video showed how the first task was already done and how the Jira task was updated with the relevant information. The demo then showed that a corresponding website was created in Duda with the appropriate settings.\n\n**Conclusion:**\n\nThe Duda MCP server empowers various roles within a business (operations, support, marketing, site owners) with AI capabilities, making it suitable for a wide range of tasks. It is available to users on the agency plan and up. The Duda MCP server is a valuable tool for automating tasks, accessing data, and improving overall business efficiency through AI integration.\n",
+    "key_takeaways": [
+      "**Duda MCP Server Unlocks AI Power for Businesses:** Duda's MCP (Model Contest Protocol) server allows AI tools like Claude to directly interact with and take action on the Duda platform. This moves beyond simple information retrieval to real-world execution.",
+      "**MCP is a Broad Industry Standard:** The Model Contest Protocol is supported by major players like OpenAI (ChatGPT), Anthropic (Claude), and tools like Cursor. This means it's not just a Duda feature, but a growing ecosystem.",
+      "**Duda MCP Server Enables Automation:** Tasks like creating blog posts, managing product pricing, and pulling sales data can be automated through AI, freeing up time for more strategic work.",
+      "**Simplified Task Automation with Plain Language:** Complex workflows can be automated by writing instructions in plain English for the AI to execute, significantly reducing the need for custom development.",
+      "**Connect Multiple MCP Servers for Powerful Workflows:** Duda's MCP server can be integrated with other services like Jira (project management) to create comprehensive, automated workflows that span multiple platforms.",
+      "**Operations Teams Benefit from Automated Client Onboarding:** The demo highlighted a powerful use case where new client website creation and onboarding is fully automated by integrating with Jira, saving significant time and manual effort.",
+      "**Accessible to Agency Plan Users and Up:** Duda MCP is available to users on the Agency plan and above, making it immediately accessible to many Duda users.",
+      "**Empower Every Role With AI:** The Duda MCP Server can improve efficiency for multiple types of roles - from operation teams to support reps to marketers to the site owners."
+    ],
+    "important_quotes": [
+      "MCP stands for model contest protocol. It's an open standard that allows AI tools to securely connect to external platforms and resources. You can really think about it as API for LLMs for AI clients.",
+      "Duda's MCP server makes it possible for AI tools to take real action on the Duda platform. So you can work smarter, you can save time, you can differentiate your offering and stay in control...",
+      "...with the do the MCP server it allows you to empower every wall uh with AI."
+    ],
+    "action_items": [
+      "**Navigate** to your Duda account settings page.",
+      "**Confirm** you are on an agency plan or above.",
+      "**Locate** the \"Model Context Protocol\" (MCP) section at the bottom of the page.",
+      "**Copy** the Duda MCP server URL provided.",
+      "**Install** the Duda MCP server in your preferred AI tool (Claude, Cursor, and soon, ChatGPT).",
+      "**Explore** the 60 different Duda tools/capabilities available through the MCP integration.",
+      "**Experiment** with various prompts in your AI tool to manage site content, SEO, e-commerce store operations, or access analytics data on the Duda platform.",
+      "**Research** Jira or similar project management tools to explore integrating them with the Duda MCP server for automated client onboarding and website creation workflows."
+    ],
+    "topics": [
+      "Here's a list of the primary topics, themes, and subjects discussed in the transcript, formatted as requested",
+      "MCP (Model Context Protocol)",
+      "Duda MCP Server",
+      "AI Tools Integration",
+      "Workflow Automation",
+      "Content Creation",
+      "E-commerce Management",
+      "SEO Services",
+      "Jira Integration",
+      "Website Creation",
+      "Client Management",
+      "Agency Operations"
+    ],
+    "sentiment_analysis": {
+      "positive": 0.0,
+      "neutral": 0.0,
+      "negative": 0.0,
+      "overall_score": 0.0
+    },
+    "sentiment_score": 0.0,
+    "timeline": [],
+    "questions_and_answers": [
+      {
+        "question": "What is MCP?",
+        "answer": "MCP stands for Model Contest Protocol. It's an open standard that allows AI tools to securely connect to external platforms and resources; think of it as an API for LLMs or AI clients."
+      },
+      {
+        "question": "How does Duda's MCP server empower businesses?",
+        "answer": "Duda's MCP server makes it possible for AI tools to take real action on the Duda platform, allowing you to work smarter, save time, differentiate your offerings, and stay in control directly from AI clients."
+      },
+      {
+        "question": "How can I access the Duda MCP server?",
+        "answer": "If you're on an agency plan or higher, you can find the Duda MCP server URL in your account settings page on Duda. You can then copy this URL and install it on the AI tool you want to use, like Claude or Cursor."
+      },
+      {
+        "question": "What are some examples of tasks that can be automated using Duda's MCP server?",
+        "answer": "You can automate tasks such as content creation (e.g., generating and publishing blog posts), e-commerce store management (e.g., putting products on sale), accessing site statistics and sales data, and even managing client onboarding processes like creating websites and assigning access."
+      },
+      {
+        "question": "How can the Duda MCP server benefit different roles within an agency?",
+        "answer": "It can benefit operation teams by streamlining client management and website creation, support reps by providing quick access to information, marketers and content teams by automating content creation, and site owners by providing access to analytics and other data."
+      }
+    ]
+  },
+  "settings": {
+    "summary_type": "Comprehensive",
+    "language": "English",
+    "include_timestamps": true,
+    "include_sentiment": true,
+    "include_topics": true
+  },
+  "timestamp": "2025-07-09T14:59:12.551340",
+  "session_id": "3c7439d821d42186",
+  "created_at": "2025-07-09T14:59:12.551340",
+  "last_accessed": "2025-07-09T14:59:12.551340"
+}

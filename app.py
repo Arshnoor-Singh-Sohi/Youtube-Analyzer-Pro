@@ -1,5 +1,6 @@
 import streamlit as st
 import os
+import time
 from datetime import datetime
 import json
 from pathlib import Path
@@ -75,6 +76,51 @@ def initialize_components():
 def main():
     components = initialize_components()
     
+    # Check if we have existing analysis data to display
+    if (st.session_state.get('analysis_complete', False) and 
+        'analysis_results' in st.session_state and 
+        'transcript_data' in st.session_state and 
+        'video_info' in st.session_state):
+        
+        # Display existing results immediately
+        st.markdown("""
+        <div class="main-header">
+            <h1>🎥 YouTube Video Analyzer Pro</h1>
+            <p>Transform any YouTube video into comprehensive insights with AI-powered analysis</p>
+        </div>
+        """, unsafe_allow_html=True)
+        
+        # Show current video info
+        video_info = st.session_state.video_info
+        
+        col1, col2 = st.columns([1, 2])
+        with col1:
+            st.image(
+                video_info['thumbnail'],
+                caption="Current Analysis",
+                use_container_width=True
+            )
+        with col2:
+            st.markdown(f"**Title:** {video_info['title']}")
+            st.markdown(f"**Channel:** {video_info['channel']}")
+            st.markdown(f"**Duration:** {video_info['duration']}")
+            
+            if st.button("🔄 Analyze New Video", type="secondary"):
+                # Clear session state for new analysis
+                for key in ['analysis_complete', 'analysis_results', 'transcript_data', 'video_info']:
+                    if key in st.session_state:
+                        del st.session_state[key]
+                st.rerun()
+        
+        # Display the results
+        display_analysis_results(
+            st.session_state.analysis_results,
+            st.session_state.transcript_data,
+            st.session_state.video_info,
+            components
+        )
+        return
+    
     # Sidebar
     with st.sidebar:
         st.title("🎮 Control Panel")
@@ -97,8 +143,29 @@ def main():
         
         st.divider()
         
+        # API Usage Info
+        with st.expander("ℹ️ API Usage Info"):
+            st.markdown("""
+            **Google Gemini API Limits:**
+            - Free tier: Limited requests per minute
+            - If you see rate limit errors, wait a few minutes
+            - For heavy usage, consider upgrading your API plan
+            
+            **Tips to avoid rate limits:**
+            - Analyze shorter videos first
+            - Wait between analyses
+            - Use session history to revisit previous analyses
+            """)
+        
         # Settings
         st.subheader("⚙️ Settings")
+        
+        # API Status indicator
+        api_status = st.empty()
+        if st.session_state.get('api_error', False):
+            api_status.error("🚫 API Rate Limited - Please wait before analyzing")
+        else:
+            api_status.success("✅ API Ready")
         
         summary_type = st.selectbox(
             "Summary Style:",
@@ -161,7 +228,7 @@ def main():
                     st.image(
                         video_info['thumbnail'],
                         caption="Video Thumbnail",
-                        use_column_width=True
+                        use_container_width=True
                     )
                 
                 with col2:
@@ -243,21 +310,55 @@ def main():
                     display_analysis_results(analysis_results, transcript_data, video_info, components)
                     
                 except Exception as e:
-                    st.error(f"❌ Error during analysis: {str(e)}")
+                    error_msg = str(e)
                     progress_bar.empty()
                     status_text.empty()
+                    
+                    # Handle different types of errors
+                    if "429" in error_msg or "rate limit" in error_msg.lower():
+                        st.error("🚫 **API Rate Limit Exceeded**")
+                        st.info("""
+                        **What happened:** You've exceeded the Google Gemini API quota limit.
+                        
+                        **Solutions:**
+                        1. ⏰ **Wait 1-2 minutes** and try again
+                        2. 🔄 Try analyzing a **shorter video**
+                        3. 📚 Use **session history** to view previous analyses
+                        4. 💰 Consider upgrading your Google API plan for higher limits
+                        
+                        **Current status:** API temporarily blocked - please wait before retrying.
+                        """)
+                        st.session_state.api_error = True
+                    elif "quota" in error_msg.lower():
+                        st.error("📊 **API Quota Exceeded**")
+                        st.info("""
+                        **Daily/Monthly quota reached.** 
+                        
+                        **Solutions:**
+                        1. ⏰ Wait until quota resets (usually next day/month)
+                        2. 💰 Upgrade your Google API plan
+                        3. 📚 Review previous analyses in session history
+                        """)
+                    else:
+                        st.error(f"❌ **Analysis Error:** {error_msg}")
+                        st.info("""
+                        **Troubleshooting steps:**
+                        1. 🔄 Try again with a different video
+                        2. ✅ Ensure the video has captions/subtitles
+                        3. 🔗 Verify the YouTube URL is correct
+                        4. ⏰ Wait a moment and retry
+                        """)
         else:
             st.error("❌ Please enter a valid YouTube URL")
 
 def display_analysis_results(analysis_results, transcript_data, video_info, components):
     """Display the comprehensive analysis results"""
     
-    # Store in session state for chat interface
-    st.session_state.current_analysis = {
-        'analysis_results': analysis_results,
-        'transcript_data': transcript_data,
-        'video_info': video_info
-    }
+    # Store in session state for persistence
+    st.session_state.analysis_results = analysis_results
+    st.session_state.transcript_data = transcript_data
+    st.session_state.video_info = video_info
+    st.session_state.analysis_complete = True
     
     st.markdown("---")
     st.header("📊 Analysis Results")
@@ -332,7 +433,7 @@ def display_analysis_results(analysis_results, transcript_data, video_info, comp
             # Display topics as badges
             topics_html = ""
             for topic in analysis_results['topics']:
-                topics_html += f'<span style="background-color: #e1f5fe; padding: 0.25rem 0.5rem; border-radius: 1rem; margin: 0.25rem; display: inline-block;">{topic}</span>'
+                topics_html += f'<span style="background-color: #2E3440; color: #FFFFFF; padding: 0.4rem 0.8rem; border-radius: 1.2rem; margin: 0.3rem; display: inline-block; font-size: 0.9rem; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">{topic}</span>'
             
             st.markdown(topics_html, unsafe_allow_html=True)
         
@@ -376,36 +477,52 @@ def display_analysis_results(analysis_results, transcript_data, video_info, comp
     export_format = st.session_state.get('export_format', 'PDF')
     export_handler = components['export_handler']
     
+    # Create unique keys for download buttons to prevent conflicts
+    video_id = video_info.get('video_id', 'unknown')
+    timestamp = int(time.time())
+    
     col1, col2, col3 = st.columns(3)
     
     with col1:
-        if st.button("📄 Export Summary", use_container_width=True):
+        st.markdown("**📄 Summary Export**")
+        try:
             file_data = export_handler.export_summary(analysis_results, export_format)
             st.download_button(
-                label=f"Download {export_format}",
+                label=f"📥 Download {export_format} Summary",
                 data=file_data,
-                file_name=f"summary_{video_info['video_id']}.{export_format.lower()}",
-                mime=export_handler.get_mime_type(export_format)
+                file_name=f"summary_{video_id}_{timestamp}.{export_format.lower().replace(' ', '_')}",
+                mime=export_handler.get_mime_type(export_format),
+                key=f"download_summary_{timestamp}",
+                use_container_width=True
             )
+        except Exception as e:
+            st.error(f"Export error: {e}")
     
     with col2:
-        if st.button("📊 Export Full Report", use_container_width=True):
+        st.markdown("**📊 Full Report Export**")
+        try:
             file_data = export_handler.export_full_report(analysis_results, transcript_data, video_info, export_format)
             st.download_button(
-                label=f"Download Full Report",
+                label=f"📥 Download Full Report",
                 data=file_data,
-                file_name=f"full_report_{video_info['video_id']}.{export_format.lower()}",
-                mime=export_handler.get_mime_type(export_format)
+                file_name=f"full_report_{video_id}_{timestamp}.{export_format.lower().replace(' ', '_')}",
+                mime=export_handler.get_mime_type(export_format),
+                key=f"download_report_{timestamp}",
+                use_container_width=True
             )
+        except Exception as e:
+            st.error(f"Export error: {e}")
     
     with col3:
-        if st.button("📋 Export Transcript", use_container_width=True):
-            st.download_button(
-                label="Download Transcript",
-                data=transcript_data['text'],
-                file_name=f"transcript_{video_info['video_id']}.txt",
-                mime="text/plain"
-            )
+        st.markdown("**📋 Transcript Export**")
+        st.download_button(
+            label="📥 Download Transcript",
+            data=transcript_data['text'],
+            file_name=f"transcript_{video_id}_{timestamp}.txt",
+            mime="text/plain",
+            key=f"download_transcript_{timestamp}",
+            use_container_width=True
+        )
 
 if __name__ == "__main__":
     main()

@@ -33,6 +33,12 @@ class ChatInterface:
         st.subheader("🤖 Chat with Video Content")
         st.markdown("Ask questions about the video content and get AI-powered answers!")
         
+        # Show video context
+        with st.expander("📺 Video Context", expanded=False):
+            st.write(f"**Title:** {video_info.get('title', 'Unknown')}")
+            st.write(f"**Channel:** {video_info.get('channel', 'Unknown')}")
+            st.write(f"**Duration:** {video_info.get('duration', 'Unknown')}")
+        
         # Chat container
         chat_container = st.container()
         
